@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T20:26:13.589601+00:00",
+  "generated": "2026-10-25T20:44:25.667376+00:00",
   "count": {
     "PFC-M": 29,
     "PFC-W": 19,
@@ -11,13 +11,45 @@
     "USA-W": 3,
     "EAGLES": 13,
     "SIXERS": 80,
-    "FLYERS": 162,
+    "FLYERS": 92,
     "PHILLIES": 136
   },
-  "total": 500,
+  "total": 430,
   "paris_venue_known": 22,
   "matches_with_verified_broadcast": 0,
-  "conflicts": [],
+  "conflicts": [
+    {
+      "team": "FLYERS",
+      "official": {
+        "source": "NHL",
+        "team": "FLYERS",
+        "id": "2026020492",
+        "start": "2026-12-09T00:00:00+00:00",
+        "home": "Winnipeg Jets",
+        "away": "Philadelphia Flyers",
+        "competition": "NHL",
+        "url": "https://www.nhl.com/gamecenter/2026020492",
+        "status": "scheduled",
+        "scores": null,
+        "venue": "Canada Life Centre",
+        "uid": "FLYERS-NHL-2026020492@favorite-sports"
+      },
+      "espn": {
+        "source": "ESPN",
+        "team": "FLYERS",
+        "id": "401892887",
+        "start": "2026-12-09T01:00:00+00:00",
+        "home": "Winnipeg Jets",
+        "away": "Philadelphia Flyers",
+        "competition": "nhl",
+        "url": "https://www.espn.com/nhl/game/_/gameId/401892887/flyers-jets",
+        "status": "STATUS_SCHEDULED",
+        "scores": null,
+        "venue": "Canada Life Centre"
+      },
+      "issue": "Kickoff difference >15 min; official schedule used"
+    }
+  ],
   "errors": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.fem/teams?limit=1000: HTTP Error 404: Not Found",
     "ESPN roster lookup unresolved: PFC-W in fra.fem. No match was guessed.",

@@ -4,8 +4,8 @@
     "team": "FLYERS",
     "id": "2026020040",
     "start": "2026-10-05T23:00:00+00:00",
-    "home": "Tampa Bay",
-    "away": "Philadelphia",
+    "home": "Tampa Bay Lightning",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020040",
     "status": "scheduled",
@@ -13,15 +13,16 @@
       "home": 4,
       "away": 1
     },
-    "venue": "Benchmark International Arena"
+    "venue": "Benchmark International Arena",
+    "uid": "FLYERS-NHL-2026020040@favorite-sports"
   },
   {
     "source": "NHL",
     "team": "FLYERS",
     "id": "2026020059",
     "start": "2026-10-08T23:00:00+00:00",
-    "home": "Ottawa",
-    "away": "Philadelphia",
+    "home": "Ottawa Senators",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020059",
     "status": "scheduled",
@@ -29,15 +30,16 @@
       "home": 2,
       "away": 1
     },
-    "venue": "Canadian Tire Centre"
+    "venue": "Canadian Tire Centre",
+    "uid": "FLYERS-NHL-2026020059@favorite-sports"
   },
   {
     "source": "NHL",
     "team": "FLYERS",
     "id": "2026020070",
     "start": "2026-10-10T17:00:00+00:00",
-    "home": "Boston",
-    "away": "Philadelphia",
+    "home": "Boston Bruins",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020070",
     "status": "scheduled",
@@ -45,15 +47,16 @@
       "home": 5,
       "away": 1
     },
-    "venue": "TD Garden"
+    "venue": "TD Garden",
+    "uid": "FLYERS-NHL-2026020070@favorite-sports"
   },
   {
     "source": "NHL",
     "team": "FLYERS",
     "id": "2026020086",
     "start": "2026-10-11T23:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Carolina",
+    "home": "Philadelphia Flyers",
+    "away": "Carolina Hurricanes",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020086",
     "status": "scheduled",
@@ -61,15 +64,16 @@
       "home": 1,
       "away": 4
     },
-    "venue": "Xfinity Mobile Arena"
+    "venue": "Xfinity Mobile Arena",
+    "uid": "FLYERS-NHL-2026020086@favorite-sports"
   },
   {
     "source": "NHL",
     "team": "FLYERS",
     "id": "2026020094",
     "start": "2026-10-13T23:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Seattle",
+    "home": "Philadelphia Flyers",
+    "away": "Seattle Kraken",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020094",
     "status": "scheduled",
@@ -77,15 +81,16 @@
       "home": 2,
       "away": 3
     },
-    "venue": "Xfinity Mobile Arena"
+    "venue": "Xfinity Mobile Arena",
+    "uid": "FLYERS-NHL-2026020094@favorite-sports"
   },
   {
     "source": "NHL",
     "team": "FLYERS",
     "id": "2026020110",
     "start": "2026-10-15T23:30:00+00:00",
-    "home": "Detroit",
-    "away": "Philadelphia",
+    "home": "Detroit Red Wings",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020110",
     "status": "scheduled",
@@ -93,15 +98,16 @@
       "home": 2,
       "away": 1
     },
-    "venue": "Little Caesars Arena"
+    "venue": "Little Caesars Arena",
+    "uid": "FLYERS-NHL-2026020110@favorite-sports"
   },
   {
     "source": "NHL",
     "team": "FLYERS",
     "id": "2026020128",
     "start": "2026-10-17T23:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Ottawa",
+    "home": "Philadelphia Flyers",
+    "away": "Ottawa Senators",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020128",
     "status": "scheduled",
@@ -109,15 +115,16 @@
       "home": 3,
       "away": 1
     },
-    "venue": "Xfinity Mobile Arena"
+    "venue": "Xfinity Mobile Arena",
+    "uid": "FLYERS-NHL-2026020128@favorite-sports"
   },
   {
     "source": "NHL",
     "team": "FLYERS",
     "id": "2026020138",
     "start": "2026-10-19T23:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Colorado",
+    "home": "Philadelphia Flyers",
+    "away": "Colorado Avalanche",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020138",
     "status": "scheduled",
@@ -125,15 +132,16 @@
       "home": 3,
       "away": 2
     },
-    "venue": "Xfinity Mobile Arena"
+    "venue": "Xfinity Mobile Arena",
+    "uid": "FLYERS-NHL-2026020138@favorite-sports"
   },
   {
     "source": "NHL",
     "team": "FLYERS",
     "id": "2026020152",
     "start": "2026-10-21T23:30:00+00:00",
-    "home": "Buffalo",
-    "away": "Philadelphia",
+    "home": "Buffalo Sabres",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020152",
     "status": "scheduled",
@@ -141,15 +149,16 @@
       "home": 1,
       "away": 3
     },
-    "venue": "KeyBank Center"
+    "venue": "KeyBank Center",
+    "uid": "FLYERS-NHL-2026020152@favorite-sports"
   },
   {
     "source": "NHL",
     "team": "FLYERS",
     "id": "2026020168",
     "start": "2026-10-24T17:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Anaheim",
+    "home": "Philadelphia Flyers",
+    "away": "Anaheim Ducks",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020168",
     "status": "scheduled",
@@ -165,8 +174,8 @@
     "team": "FLYERS",
     "id": "2026020188",
     "start": "2026-10-27T23:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Columbus",
+    "home": "Philadelphia Flyers",
+    "away": "Columbus Blue Jackets",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020188",
     "status": "scheduled",
@@ -179,8 +188,8 @@
     "team": "FLYERS",
     "id": "2026020199",
     "start": "2026-10-28T23:30:00+00:00",
-    "home": "Washington",
-    "away": "Philadelphia",
+    "home": "Washington Capitals",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020199",
     "status": "scheduled",
@@ -193,8 +202,8 @@
     "team": "FLYERS",
     "id": "2026020229",
     "start": "2026-11-01T21:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Utah",
+    "home": "Philadelphia Flyers",
+    "away": "Utah Mammoth",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020229",
     "status": "scheduled",
@@ -207,8 +216,8 @@
     "team": "FLYERS",
     "id": "2026020241",
     "start": "2026-11-04T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Minnesota",
+    "home": "Philadelphia Flyers",
+    "away": "Minnesota Wild",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020241",
     "status": "scheduled",
@@ -222,7 +231,7 @@
     "id": "2026020256",
     "start": "2026-11-06T00:00:00+00:00",
     "home": "New York",
-    "away": "Philadelphia",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020256",
     "status": "scheduled",
@@ -235,8 +244,8 @@
     "team": "FLYERS",
     "id": "2026020281",
     "start": "2026-11-09T00:00:00+00:00",
-    "home": "Calgary",
-    "away": "Philadelphia",
+    "home": "Calgary Flames",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020281",
     "status": "scheduled",
@@ -249,8 +258,8 @@
     "team": "FLYERS",
     "id": "2026020284",
     "start": "2026-11-10T02:30:00+00:00",
-    "home": "Vancouver",
-    "away": "Philadelphia",
+    "home": "Vancouver Canucks",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020284",
     "status": "scheduled",
@@ -263,8 +272,8 @@
     "team": "FLYERS",
     "id": "2026020295",
     "start": "2026-11-12T02:00:00+00:00",
-    "home": "Edmonton",
-    "away": "Philadelphia",
+    "home": "Edmonton Oilers",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020295",
     "status": "scheduled",
@@ -277,8 +286,8 @@
     "team": "FLYERS",
     "id": "2026020319",
     "start": "2026-11-15T00:00:00+00:00",
-    "home": "Columbus",
-    "away": "Philadelphia",
+    "home": "Columbus Blue Jackets",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020319",
     "status": "scheduled",
@@ -291,8 +300,8 @@
     "team": "FLYERS",
     "id": "2026020326",
     "start": "2026-11-16T00:30:00+00:00",
-    "home": "Philadelphia",
-    "away": "Edmonton",
+    "home": "Philadelphia Flyers",
+    "away": "Edmonton Oilers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020326",
     "status": "scheduled",
@@ -305,8 +314,8 @@
     "team": "FLYERS",
     "id": "2026020337",
     "start": "2026-11-18T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Buffalo",
+    "home": "Philadelphia Flyers",
+    "away": "Buffalo Sabres",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020337",
     "status": "scheduled",
@@ -319,8 +328,8 @@
     "team": "FLYERS",
     "id": "2026020348",
     "start": "2026-11-20T00:00:00+00:00",
-    "home": "Ottawa",
-    "away": "Philadelphia",
+    "home": "Ottawa Senators",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020348",
     "status": "scheduled",
@@ -333,8 +342,8 @@
     "team": "FLYERS",
     "id": "2026020365",
     "start": "2026-11-22T00:00:00+00:00",
-    "home": "Montréal",
-    "away": "Philadelphia",
+    "home": "Montréal Canadiens",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020365",
     "status": "scheduled",
@@ -347,8 +356,8 @@
     "team": "FLYERS",
     "id": "2026020392",
     "start": "2026-11-26T00:00:00+00:00",
-    "home": "Washington",
-    "away": "Philadelphia",
+    "home": "Washington Capitals",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020392",
     "status": "scheduled",
@@ -361,8 +370,8 @@
     "team": "FLYERS",
     "id": "2026020405",
     "start": "2026-11-27T20:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Vancouver",
+    "home": "Philadelphia Flyers",
+    "away": "Vancouver Canucks",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020405",
     "status": "scheduled",
@@ -375,7 +384,7 @@
     "team": "FLYERS",
     "id": "2026020423",
     "start": "2026-11-29T00:30:00+00:00",
-    "home": "Philadelphia",
+    "home": "Philadelphia Flyers",
     "away": "New York",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020423",
@@ -389,8 +398,8 @@
     "team": "FLYERS",
     "id": "2026020433",
     "start": "2026-12-01T00:30:00+00:00",
-    "home": "Toronto",
-    "away": "Philadelphia",
+    "home": "Toronto Maple Leafs",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020433",
     "status": "scheduled",
@@ -403,7 +412,7 @@
     "team": "FLYERS",
     "id": "2026020452",
     "start": "2026-12-04T00:30:00+00:00",
-    "home": "Philadelphia",
+    "home": "Philadelphia Flyers",
     "away": "New York",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020452",
@@ -417,8 +426,8 @@
     "team": "FLYERS",
     "id": "2026020473",
     "start": "2026-12-06T01:00:00+00:00",
-    "home": "Minnesota",
-    "away": "Philadelphia",
+    "home": "Minnesota Wild",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020473",
     "status": "scheduled",
@@ -431,8 +440,8 @@
     "team": "FLYERS",
     "id": "2026020492",
     "start": "2026-12-09T00:00:00+00:00",
-    "home": "Winnipeg",
-    "away": "Philadelphia",
+    "home": "Winnipeg Jets",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020492",
     "status": "scheduled",
@@ -445,8 +454,8 @@
     "team": "FLYERS",
     "id": "2026020511",
     "start": "2026-12-12T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Calgary",
+    "home": "Philadelphia Flyers",
+    "away": "Calgary Flames",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020511",
     "status": "scheduled",
@@ -459,8 +468,8 @@
     "team": "FLYERS",
     "id": "2026020532",
     "start": "2026-12-15T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Florida",
+    "home": "Philadelphia Flyers",
+    "away": "Florida Panthers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020532",
     "status": "scheduled",
@@ -473,7 +482,7 @@
     "team": "FLYERS",
     "id": "2026020547",
     "start": "2026-12-17T00:30:00+00:00",
-    "home": "Philadelphia",
+    "home": "Philadelphia Flyers",
     "away": "New York",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020547",
@@ -487,8 +496,8 @@
     "team": "FLYERS",
     "id": "2026020562",
     "start": "2026-12-19T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Detroit",
+    "home": "Philadelphia Flyers",
+    "away": "Detroit Red Wings",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020562",
     "status": "scheduled",
@@ -501,8 +510,8 @@
     "team": "FLYERS",
     "id": "2026020576",
     "start": "2026-12-20T18:00:00+00:00",
-    "home": "Boston",
-    "away": "Philadelphia",
+    "home": "Boston Bruins",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020576",
     "status": "scheduled",
@@ -515,8 +524,8 @@
     "team": "FLYERS",
     "id": "2026020587",
     "start": "2026-12-22T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Columbus",
+    "home": "Philadelphia Flyers",
+    "away": "Columbus Blue Jackets",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020587",
     "status": "scheduled",
@@ -529,8 +538,8 @@
     "team": "FLYERS",
     "id": "2026020612",
     "start": "2026-12-27T20:00:00+00:00",
-    "home": "Chicago",
-    "away": "Philadelphia",
+    "home": "Chicago Blackhawks",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020612",
     "status": "scheduled",
@@ -543,8 +552,8 @@
     "team": "FLYERS",
     "id": "2026020635",
     "start": "2026-12-30T02:40:00+00:00",
-    "home": "Seattle",
-    "away": "Philadelphia",
+    "home": "Seattle Kraken",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020635",
     "status": "scheduled",
@@ -557,8 +566,8 @@
     "team": "FLYERS",
     "id": "2026020653",
     "start": "2027-01-01T21:00:00+00:00",
-    "home": "San Jose",
-    "away": "Philadelphia",
+    "home": "San Jose Sharks",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020653",
     "status": "scheduled",
@@ -571,8 +580,8 @@
     "team": "FLYERS",
     "id": "2026020672",
     "start": "2027-01-04T01:00:00+00:00",
-    "home": "Anaheim",
-    "away": "Philadelphia",
+    "home": "Anaheim Ducks",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020672",
     "status": "scheduled",
@@ -585,8 +594,8 @@
     "team": "FLYERS",
     "id": "2026020679",
     "start": "2027-01-05T03:00:00+00:00",
-    "home": "Los Angeles",
-    "away": "Philadelphia",
+    "home": "Los Angeles Kings",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020679",
     "status": "scheduled",
@@ -599,8 +608,8 @@
     "team": "FLYERS",
     "id": "2026020697",
     "start": "2027-01-08T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Toronto",
+    "home": "Philadelphia Flyers",
+    "away": "Toronto Maple Leafs",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020697",
     "status": "scheduled",
@@ -613,8 +622,8 @@
     "team": "FLYERS",
     "id": "2026020713",
     "start": "2027-01-10T00:00:00+00:00",
-    "home": "Toronto",
-    "away": "Philadelphia",
+    "home": "Toronto Maple Leafs",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020713",
     "status": "scheduled",
@@ -627,8 +636,8 @@
     "team": "FLYERS",
     "id": "2026020722",
     "start": "2027-01-11T00:30:00+00:00",
-    "home": "Philadelphia",
-    "away": "Chicago",
+    "home": "Philadelphia Flyers",
+    "away": "Chicago Blackhawks",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020722",
     "status": "scheduled",
@@ -641,8 +650,8 @@
     "team": "FLYERS",
     "id": "2026020733",
     "start": "2027-01-13T01:00:00+00:00",
-    "home": "Nashville",
-    "away": "Philadelphia",
+    "home": "Nashville Predators",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020733",
     "status": "scheduled",
@@ -655,8 +664,8 @@
     "team": "FLYERS",
     "id": "2026020755",
     "start": "2027-01-16T00:00:00+00:00",
-    "home": "Carolina",
-    "away": "Philadelphia",
+    "home": "Carolina Hurricanes",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020755",
     "status": "scheduled",
@@ -669,8 +678,8 @@
     "team": "FLYERS",
     "id": "2026020764",
     "start": "2027-01-17T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Montréal",
+    "home": "Philadelphia Flyers",
+    "away": "Montréal Canadiens",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020764",
     "status": "scheduled",
@@ -684,7 +693,7 @@
     "id": "2026020788",
     "start": "2027-01-20T00:00:00+00:00",
     "home": "New York",
-    "away": "Philadelphia",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020788",
     "status": "scheduled",
@@ -697,8 +706,8 @@
     "team": "FLYERS",
     "id": "2026020802",
     "start": "2027-01-22T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Nashville",
+    "home": "Philadelphia Flyers",
+    "away": "Nashville Predators",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020802",
     "status": "scheduled",
@@ -711,8 +720,8 @@
     "team": "FLYERS",
     "id": "2026020820",
     "start": "2027-01-24T00:30:00+00:00",
-    "home": "Philadelphia",
-    "away": "New Jersey",
+    "home": "Philadelphia Flyers",
+    "away": "New Jersey Devils",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020820",
     "status": "scheduled",
@@ -725,8 +734,8 @@
     "team": "FLYERS",
     "id": "2026020839",
     "start": "2027-01-27T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Florida",
+    "home": "Philadelphia Flyers",
+    "away": "Florida Panthers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020839",
     "status": "scheduled",
@@ -739,8 +748,8 @@
     "team": "FLYERS",
     "id": "2026020850",
     "start": "2027-01-29T00:30:00+00:00",
-    "home": "Philadelphia",
-    "away": "Los Angeles",
+    "home": "Philadelphia Flyers",
+    "away": "Los Angeles Kings",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020850",
     "status": "scheduled",
@@ -753,8 +762,8 @@
     "team": "FLYERS",
     "id": "2026020864",
     "start": "2027-01-30T18:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Winnipeg",
+    "home": "Philadelphia Flyers",
+    "away": "Winnipeg Jets",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020864",
     "status": "scheduled",
@@ -767,8 +776,8 @@
     "team": "FLYERS",
     "id": "2026020878",
     "start": "2027-01-31T17:00:00+00:00",
-    "home": "Pittsburgh",
-    "away": "Philadelphia",
+    "home": "Pittsburgh Penguins",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020878",
     "status": "scheduled",
@@ -781,8 +790,8 @@
     "team": "FLYERS",
     "id": "2026020890",
     "start": "2027-02-04T00:30:00+00:00",
-    "home": "Philadelphia",
-    "away": "Tampa Bay",
+    "home": "Philadelphia Flyers",
+    "away": "Tampa Bay Lightning",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020890",
     "status": "scheduled",
@@ -795,8 +804,8 @@
     "team": "FLYERS",
     "id": "2026020923",
     "start": "2027-02-14T00:30:00+00:00",
-    "home": "Philadelphia",
-    "away": "New Jersey",
+    "home": "Philadelphia Flyers",
+    "away": "New Jersey Devils",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020923",
     "status": "scheduled",
@@ -809,8 +818,8 @@
     "team": "FLYERS",
     "id": "2026020936",
     "start": "2027-02-16T01:00:00+00:00",
-    "home": "St. Louis",
-    "away": "Philadelphia",
+    "home": "St. Louis Blues",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020936",
     "status": "scheduled",
@@ -823,8 +832,8 @@
     "team": "FLYERS",
     "id": "2026020957",
     "start": "2027-02-19T02:00:00+00:00",
-    "home": "Dallas",
-    "away": "Philadelphia",
+    "home": "Dallas Stars",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020957",
     "status": "scheduled",
@@ -837,7 +846,7 @@
     "team": "FLYERS",
     "id": "2026020967",
     "start": "2027-02-20T17:30:00+00:00",
-    "home": "Philadelphia",
+    "home": "Philadelphia Flyers",
     "away": "New York",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020967",
@@ -851,8 +860,8 @@
     "team": "FLYERS",
     "id": "2026020986",
     "start": "2027-02-22T19:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Montréal",
+    "home": "Philadelphia Flyers",
+    "away": "Montréal Canadiens",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020986",
     "status": "scheduled",
@@ -865,8 +874,8 @@
     "team": "FLYERS",
     "id": "2026020999",
     "start": "2027-02-25T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Buffalo",
+    "home": "Philadelphia Flyers",
+    "away": "Buffalo Sabres",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020999",
     "status": "scheduled",
@@ -880,7 +889,7 @@
     "id": "2026021013",
     "start": "2027-02-27T00:00:00+00:00",
     "home": "New York",
-    "away": "Philadelphia",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021013",
     "status": "scheduled",
@@ -893,8 +902,8 @@
     "team": "FLYERS",
     "id": "2026021023",
     "start": "2027-02-28T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "San Jose",
+    "home": "Philadelphia Flyers",
+    "away": "San Jose Sharks",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021023",
     "status": "scheduled",
@@ -907,8 +916,8 @@
     "team": "FLYERS",
     "id": "2026021046",
     "start": "2027-03-03T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Vegas",
+    "home": "Philadelphia Flyers",
+    "away": "Vegas Golden Knights",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021046",
     "status": "scheduled",
@@ -921,8 +930,8 @@
     "team": "FLYERS",
     "id": "2026021064",
     "start": "2027-03-06T00:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Dallas",
+    "home": "Philadelphia Flyers",
+    "away": "Dallas Stars",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021064",
     "status": "scheduled",
@@ -935,8 +944,8 @@
     "team": "FLYERS",
     "id": "2026021081",
     "start": "2027-03-07T20:30:00+00:00",
-    "home": "Philadelphia",
-    "away": "St. Louis",
+    "home": "Philadelphia Flyers",
+    "away": "St. Louis Blues",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021081",
     "status": "scheduled",
@@ -949,8 +958,8 @@
     "team": "FLYERS",
     "id": "2026021101",
     "start": "2027-03-10T02:00:00+00:00",
-    "home": "Colorado",
-    "away": "Philadelphia",
+    "home": "Colorado Avalanche",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021101",
     "status": "scheduled",
@@ -963,8 +972,8 @@
     "team": "FLYERS",
     "id": "2026021116",
     "start": "2027-03-12T03:00:00+00:00",
-    "home": "Vegas",
-    "away": "Philadelphia",
+    "home": "Vegas Golden Knights",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021116",
     "status": "scheduled",
@@ -977,8 +986,8 @@
     "team": "FLYERS",
     "id": "2026021130",
     "start": "2027-03-13T22:00:00+00:00",
-    "home": "Utah",
-    "away": "Philadelphia",
+    "home": "Utah Mammoth",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021130",
     "status": "scheduled",
@@ -991,8 +1000,8 @@
     "team": "FLYERS",
     "id": "2026021149",
     "start": "2027-03-16T23:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Detroit",
+    "home": "Philadelphia Flyers",
+    "away": "Detroit Red Wings",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021149",
     "status": "scheduled",
@@ -1005,8 +1014,8 @@
     "team": "FLYERS",
     "id": "2026021166",
     "start": "2027-03-18T23:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Boston",
+    "home": "Philadelphia Flyers",
+    "away": "Boston Bruins",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021166",
     "status": "scheduled",
@@ -1020,7 +1029,7 @@
     "id": "2026021176",
     "start": "2027-03-20T19:00:00+00:00",
     "home": "New York",
-    "away": "Philadelphia",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021176",
     "status": "scheduled",
@@ -1033,8 +1042,8 @@
     "team": "FLYERS",
     "id": "2026021198",
     "start": "2027-03-23T23:00:00+00:00",
-    "home": "New Jersey",
-    "away": "Philadelphia",
+    "home": "New Jersey Devils",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021198",
     "status": "scheduled",
@@ -1047,8 +1056,8 @@
     "team": "FLYERS",
     "id": "2026021213",
     "start": "2027-03-25T22:30:00+00:00",
-    "home": "Tampa Bay",
-    "away": "Philadelphia",
+    "home": "Tampa Bay Lightning",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021213",
     "status": "scheduled",
@@ -1061,8 +1070,8 @@
     "team": "FLYERS",
     "id": "2026021230",
     "start": "2027-03-27T22:00:00+00:00",
-    "home": "Florida",
-    "away": "Philadelphia",
+    "home": "Florida Panthers",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021230",
     "status": "scheduled",
@@ -1075,8 +1084,8 @@
     "team": "FLYERS",
     "id": "2026021253",
     "start": "2027-03-30T23:00:00+00:00",
-    "home": "Philadelphia",
-    "away": "Pittsburgh",
+    "home": "Philadelphia Flyers",
+    "away": "Pittsburgh Penguins",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021253",
     "status": "scheduled",
@@ -1089,8 +1098,8 @@
     "team": "FLYERS",
     "id": "2026021266",
     "start": "2027-04-01T23:30:00+00:00",
-    "home": "Philadelphia",
-    "away": "Washington",
+    "home": "Philadelphia Flyers",
+    "away": "Washington Capitals",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021266",
     "status": "scheduled",
@@ -1103,8 +1112,8 @@
     "team": "FLYERS",
     "id": "2026021285",
     "start": "2027-04-04T00:00:00+00:00",
-    "home": "Pittsburgh",
-    "away": "Philadelphia",
+    "home": "Pittsburgh Penguins",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021285",
     "status": "scheduled",
@@ -1117,8 +1126,8 @@
     "team": "FLYERS",
     "id": "2026021296",
     "start": "2027-04-05T18:00:00+00:00",
-    "home": "Carolina",
-    "away": "Philadelphia",
+    "home": "Carolina Hurricanes",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021296",
     "status": "scheduled",
@@ -1131,8 +1140,8 @@
     "team": "FLYERS",
     "id": "2026021319",
     "start": "2027-04-08T23:30:00+00:00",
-    "home": "Columbus",
-    "away": "Philadelphia",
+    "home": "Columbus Blue Jackets",
+    "away": "Philadelphia Flyers",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021319",
     "status": "scheduled",
@@ -1145,8 +1154,8 @@
     "team": "FLYERS",
     "id": "2026021329",
     "start": "2027-04-10T16:30:00+00:00",
-    "home": "Philadelphia",
-    "away": "Washington",
+    "home": "Philadelphia Flyers",
+    "away": "Washington Capitals",
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026021329",
     "status": "scheduled",
@@ -1157,293 +1166,16 @@
   {
     "source": "ESPN",
     "team": "FLYERS",
-    "id": "401892445",
-    "start": "2026-10-05T23:00:00+00:00",
-    "home": "Tampa Bay Lightning",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892445/flyers-lightning",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Benchmark International Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401891820",
-    "start": "2026-10-08T23:00:00+00:00",
-    "home": "Ottawa Senators",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401891820/flyers-senators",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Canadian Tire Centre"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892469",
-    "start": "2026-10-10T17:00:00+00:00",
-    "home": "Boston Bruins",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892469/flyers-bruins",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "TD Garden"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892484",
-    "start": "2026-10-11T23:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Carolina Hurricanes",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892484/hurricanes-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892492",
-    "start": "2026-10-13T23:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Seattle Kraken",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892492/kraken-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892508",
-    "start": "2026-10-15T23:30:00+00:00",
-    "home": "Detroit Red Wings",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892508/flyers-red-wings",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Little Caesars Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892526",
-    "start": "2026-10-17T23:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Ottawa Senators",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892526/senators-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892536",
-    "start": "2026-10-19T23:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Colorado Avalanche",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892536/avalanche-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892550",
-    "start": "2026-10-21T23:30:00+00:00",
-    "home": "Buffalo Sabres",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892550/flyers-sabres",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "KeyBank Center"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892566",
-    "start": "2026-10-24T17:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Anaheim Ducks",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892566/ducks-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892585",
-    "start": "2026-10-27T23:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Columbus Blue Jackets",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892585/blue-jackets-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401892585@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892596",
-    "start": "2026-10-28T23:30:00+00:00",
-    "home": "Washington Capitals",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892596/flyers-capitals",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Capital One Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892626",
-    "start": "2026-11-01T21:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Utah Mammoth",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892626/mammoth-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401892626@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892638",
-    "start": "2026-11-04T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Minnesota Wild",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892638/wild-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
     "id": "401892653",
     "start": "2026-11-06T00:00:00+00:00",
     "home": "New York Rangers",
     "away": "Philadelphia Flyers",
     "competition": "nhl",
     "url": "https://www.espn.com/nhl/game/_/gameId/401892653/flyers-rangers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Madison Square Garden",
     "uid": "FLYERS-ESPN-401892653@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892678",
-    "start": "2026-11-09T00:00:00+00:00",
-    "home": "Calgary Flames",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892678/flyers-flames",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Scotiabank Saddledome"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892681",
-    "start": "2026-11-10T02:30:00+00:00",
-    "home": "Vancouver Canucks",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892681/flyers-canucks",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Rogers Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892692",
-    "start": "2026-11-12T02:00:00+00:00",
-    "home": "Edmonton Oilers",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892692/flyers-oilers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Rogers Place"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892715",
-    "start": "2026-11-15T00:00:00+00:00",
-    "home": "Columbus Blue Jackets",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892715/flyers-blue-jackets",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Nationwide Arena",
-    "uid": "FLYERS-ESPN-401892715@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892721",
-    "start": "2026-11-16T00:30:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Edmonton Oilers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892721/oilers-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892732",
-    "start": "2026-11-18T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Buffalo Sabres",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892732/sabres-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892743",
-    "start": "2026-11-20T00:00:00+00:00",
-    "home": "Ottawa Senators",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892743/flyers-senators",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Canadian Tire Centre",
-    "uid": "FLYERS-ESPN-401892743@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -1454,36 +1186,10 @@
     "away": "Philadelphia Flyers",
     "competition": "nhl",
     "url": "https://www.espn.com/nhl/game/_/gameId/401892760/flyers-canadiens",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Bell Centre",
     "uid": "FLYERS-ESPN-401892760@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892787",
-    "start": "2026-11-26T00:00:00+00:00",
-    "home": "Washington Capitals",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892787/flyers-capitals",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Capital One Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892800",
-    "start": "2026-11-27T20:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Vancouver Canucks",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892800/canucks-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
   },
   {
     "source": "ESPN",
@@ -1494,24 +1200,10 @@
     "away": "New York Islanders",
     "competition": "nhl",
     "url": "https://www.espn.com/nhl/game/_/gameId/401892818/islanders-flyers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "FLYERS-ESPN-401892818@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892828",
-    "start": "2026-12-01T00:30:00+00:00",
-    "home": "Toronto Maple Leafs",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892828/flyers-maple-leafs",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Scotiabank Arena",
-    "uid": "FLYERS-ESPN-401892828@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -1522,63 +1214,10 @@
     "away": "New York Islanders",
     "competition": "nhl",
     "url": "https://www.espn.com/nhl/game/_/gameId/401892847/islanders-flyers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "FLYERS-ESPN-401892847@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892868",
-    "start": "2026-12-06T01:00:00+00:00",
-    "home": "Minnesota Wild",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892868/flyers-wild",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Grand Casino Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892887",
-    "start": "2026-12-09T01:00:00+00:00",
-    "home": "Winnipeg Jets",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892887/flyers-jets",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Canada Life Centre"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892906",
-    "start": "2026-12-12T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Calgary Flames",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892906/flames-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892927",
-    "start": "2026-12-15T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Florida Panthers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892927/panthers-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401892927@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -1589,188 +1228,10 @@
     "away": "New York Rangers",
     "competition": "nhl",
     "url": "https://www.espn.com/nhl/game/_/gameId/401892942/rangers-flyers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "FLYERS-ESPN-401892942@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892956",
-    "start": "2026-12-19T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Detroit Red Wings",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892956/red-wings-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401892956@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892970",
-    "start": "2026-12-20T18:00:00+00:00",
-    "home": "Boston Bruins",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892970/flyers-bruins",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "TD Garden",
-    "uid": "FLYERS-ESPN-401892970@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401892980",
-    "start": "2026-12-22T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Columbus Blue Jackets",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401892980/blue-jackets-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401892980@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893005",
-    "start": "2026-12-27T20:00:00+00:00",
-    "home": "Chicago Blackhawks",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893005/flyers-blackhawks",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "United Center",
-    "uid": "FLYERS-ESPN-401893005@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893028",
-    "start": "2026-12-30T02:40:00+00:00",
-    "home": "Seattle Kraken",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893028/flyers-kraken",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Climate Pledge Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893045",
-    "start": "2027-01-01T21:00:00+00:00",
-    "home": "San Jose Sharks",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893045/flyers-sharks",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "SAP Center at San Jose"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893064",
-    "start": "2027-01-04T01:00:00+00:00",
-    "home": "Anaheim Ducks",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893064/flyers-ducks",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Honda Center"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893071",
-    "start": "2027-01-05T03:00:00+00:00",
-    "home": "Los Angeles Kings",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893071/flyers-kings",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "crypto.com Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893089",
-    "start": "2027-01-08T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Toronto Maple Leafs",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893089/maple-leafs-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401893089@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893105",
-    "start": "2027-01-10T00:00:00+00:00",
-    "home": "Toronto Maple Leafs",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893105/flyers-maple-leafs",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Scotiabank Arena",
-    "uid": "FLYERS-ESPN-401893105@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893114",
-    "start": "2027-01-11T00:30:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Chicago Blackhawks",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893114/blackhawks-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401893114@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893125",
-    "start": "2027-01-13T01:00:00+00:00",
-    "home": "Nashville Predators",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893125/flyers-predators",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Bridgestone Arena",
-    "uid": "FLYERS-ESPN-401893125@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893147",
-    "start": "2027-01-16T00:00:00+00:00",
-    "home": "Carolina Hurricanes",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893147/flyers-hurricanes",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Lenovo Center",
-    "uid": "FLYERS-ESPN-401893147@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -1781,7 +1242,7 @@
     "away": "Montreal Canadiens",
     "competition": "nhl",
     "url": "https://www.espn.com/nhl/game/_/gameId/401893156/canadiens-flyers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "FLYERS-ESPN-401893156@favorite-sports"
@@ -1795,143 +1256,10 @@
     "away": "Philadelphia Flyers",
     "competition": "nhl",
     "url": "https://www.espn.com/nhl/game/_/gameId/401893180/flyers-rangers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Madison Square Garden",
     "uid": "FLYERS-ESPN-401893180@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893194",
-    "start": "2027-01-22T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Nashville Predators",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893194/predators-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401893194@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893212",
-    "start": "2027-01-24T00:30:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "New Jersey Devils",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893212/devils-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893231",
-    "start": "2027-01-27T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Florida Panthers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893231/panthers-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401893231@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893242",
-    "start": "2027-01-29T00:30:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Los Angeles Kings",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893242/kings-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893256",
-    "start": "2027-01-30T18:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Winnipeg Jets",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893256/jets-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893270",
-    "start": "2027-01-31T17:00:00+00:00",
-    "home": "Pittsburgh Penguins",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893270/flyers-penguins",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "PPG Paints Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893282",
-    "start": "2027-02-04T00:30:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Tampa Bay Lightning",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893282/lightning-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401893282@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893315",
-    "start": "2027-02-14T00:30:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "New Jersey Devils",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893315/devils-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893328",
-    "start": "2027-02-16T01:00:00+00:00",
-    "home": "St. Louis Blues",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893328/flyers-blues",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Enterprise Center"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893349",
-    "start": "2027-02-19T02:00:00+00:00",
-    "home": "Dallas Stars",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893349/flyers-stars",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "American Airlines Center"
   },
   {
     "source": "ESPN",
@@ -1942,7 +1270,7 @@
     "away": "New York Rangers",
     "competition": "nhl",
     "url": "https://www.espn.com/nhl/game/_/gameId/401893359/rangers-flyers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "FLYERS-ESPN-401893359@favorite-sports"
@@ -1956,23 +1284,10 @@
     "away": "Montreal Canadiens",
     "competition": "nhl",
     "url": "https://www.espn.com/nhl/game/_/gameId/401893377/canadiens-flyers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "FLYERS-ESPN-401893377@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893390",
-    "start": "2027-02-25T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Buffalo Sabres",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893390/sabres-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
   },
   {
     "source": "ESPN",
@@ -1983,133 +1298,10 @@
     "away": "Philadelphia Flyers",
     "competition": "nhl",
     "url": "https://www.espn.com/nhl/game/_/gameId/401893403/flyers-islanders",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "UBS Arena",
     "uid": "FLYERS-ESPN-401893403@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893414",
-    "start": "2027-02-28T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "San Jose Sharks",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893414/sharks-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893437",
-    "start": "2027-03-03T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Vegas Golden Knights",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893437/golden-knights-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401893437@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893455",
-    "start": "2027-03-06T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Dallas Stars",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893455/stars-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893472",
-    "start": "2027-03-07T20:30:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "St. Louis Blues",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893472/blues-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893492",
-    "start": "2027-03-10T02:00:00+00:00",
-    "home": "Colorado Avalanche",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893492/flyers-avalanche",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Ball Arena",
-    "uid": "FLYERS-ESPN-401893492@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893507",
-    "start": "2027-03-12T03:00:00+00:00",
-    "home": "Vegas Golden Knights",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893507/flyers-golden-knights",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "T-Mobile Arena",
-    "uid": "FLYERS-ESPN-401893507@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893513",
-    "start": "2027-03-13T22:00:00+00:00",
-    "home": "Utah Mammoth",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893513/flyers-mammoth",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Delta Center",
-    "uid": "FLYERS-ESPN-401893513@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893540",
-    "start": "2027-03-16T23:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Detroit Red Wings",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893540/red-wings-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401893540@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893557",
-    "start": "2027-03-18T23:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Boston Bruins",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893557/bruins-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-ESPN-401893557@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -2120,131 +1312,108 @@
     "away": "Philadelphia Flyers",
     "competition": "nhl",
     "url": "https://www.espn.com/nhl/game/_/gameId/401893567/flyers-islanders",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "UBS Arena",
     "uid": "FLYERS-ESPN-401893567@favorite-sports"
   },
   {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893589",
-    "start": "2027-03-23T23:00:00+00:00",
-    "home": "New Jersey Devils",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893589/flyers-devils",
+    "source": "Official feed",
+    "team": "UNION",
+    "id": "CF9E294E-E69E-4EC7-9A7A-D009DD26D631",
+    "start": "2026-10-10T23:30:00+00:00",
+    "home": "Philadelphia Union",
+    "away": "Real Salt Lake",
+    "competition": "Official club calendar",
+    "url": "https://images.mlssoccer.com/raw/upload/v1763747728/assets/PHI/Calendar/phiunion2026.ics",
     "status": "scheduled",
     "scores": null,
-    "venue": "Prudential Center"
+    "venue": "Subaru Park\\n1 Stadium Dr, Chester, PA  19013, United States",
+    "uid": "UNION-ESPN-761849@favorite-sports"
   },
   {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893604",
-    "start": "2027-03-25T22:30:00+00:00",
-    "home": "Tampa Bay Lightning",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893604/flyers-lightning",
+    "source": "Official feed",
+    "team": "UNION",
+    "id": "A13C9BA2-D14A-4D2B-9A8D-AFD61CD0E8E3",
+    "start": "2026-10-15T00:30:00+00:00",
+    "home": "Chicago Fire FC",
+    "away": "Philadelphia Union",
+    "competition": "Official club calendar",
+    "url": "https://images.mlssoccer.com/raw/upload/v1763747728/assets/PHI/Calendar/phiunion2026.ics",
     "status": "scheduled",
     "scores": null,
-    "venue": "Benchmark International Arena",
-    "uid": "FLYERS-ESPN-401893604@favorite-sports"
+    "venue": null,
+    "uid": "UNION-ESPN-761869@favorite-sports"
   },
   {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893621",
-    "start": "2027-03-27T22:00:00+00:00",
-    "home": "Florida Panthers",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893621/flyers-panthers",
+    "source": "Official feed",
+    "team": "UNION",
+    "id": "E2A4F7BE-31F2-4150-B156-4D7A8D3313BE",
+    "start": "2026-10-17T18:30:00+00:00",
+    "home": "Philadelphia Union",
+    "away": "Charlotte FC",
+    "competition": "Official club calendar",
+    "url": "https://images.mlssoccer.com/raw/upload/v1763747728/assets/PHI/Calendar/phiunion2026.ics",
     "status": "scheduled",
     "scores": null,
-    "venue": "Amerant Bank Arena",
-    "uid": "FLYERS-ESPN-401893621@favorite-sports"
+    "venue": "Subaru Park\\n1 Stadium Dr, Chester, PA  19013, United States",
+    "uid": "UNION-ESPN-761875@favorite-sports"
   },
   {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893644",
-    "start": "2027-03-30T23:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Pittsburgh Penguins",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893644/penguins-flyers",
+    "source": "Official feed",
+    "team": "UNION",
+    "id": "198A65E9-1C71-4052-B925-64F155C5D8E9",
+    "start": "2026-10-24T23:30:00+00:00",
+    "home": "Philadelphia Union",
+    "away": "New England Revolution",
+    "competition": "Official club calendar",
+    "url": "https://images.mlssoccer.com/raw/upload/v1763747728/assets/PHI/Calendar/phiunion2026.ics",
     "status": "scheduled",
     "scores": null,
-    "venue": "Xfinity Mobile Arena"
+    "venue": "Subaru Park\\n1 Stadium Dr, Chester, PA  19013, United States",
+    "uid": "UNION-ESPN-761894@favorite-sports"
   },
   {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893657",
-    "start": "2027-04-01T23:30:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Washington Capitals",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893657/capitals-flyers",
+    "source": "Official feed",
+    "team": "UNION",
+    "id": "D723AB62-83E9-4B73-8ED9-A87AB1D72CAB",
+    "start": "2026-10-29T00:30:00+00:00",
+    "home": "Nashville SC",
+    "away": "Philadelphia Union",
+    "competition": "Official club calendar",
+    "url": "https://images.mlssoccer.com/raw/upload/v1763747728/assets/PHI/Calendar/phiunion2026.ics",
     "status": "scheduled",
     "scores": null,
-    "venue": "Xfinity Mobile Arena"
+    "venue": null,
+    "uid": "UNION-Seed-7a3bdfc765c468cb@favorite-sports"
   },
   {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893676",
-    "start": "2027-04-04T00:00:00+00:00",
-    "home": "Pittsburgh Penguins",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893676/flyers-penguins",
+    "source": "Official feed",
+    "team": "UNION",
+    "id": "10E1AA13-4269-4262-BAE1-83E068CEA169",
+    "start": "2026-10-31T22:00:00+00:00",
+    "home": "FC Cincinnati",
+    "away": "Philadelphia Union",
+    "competition": "Official club calendar",
+    "url": "https://images.mlssoccer.com/raw/upload/v1763747728/assets/PHI/Calendar/phiunion2026.ics",
     "status": "scheduled",
     "scores": null,
-    "venue": "PPG Paints Arena"
+    "venue": null,
+    "uid": "UNION-Seed-fbf02e6f250e299f@favorite-sports"
   },
   {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893687",
-    "start": "2027-04-05T18:00:00+00:00",
-    "home": "Carolina Hurricanes",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893687/flyers-hurricanes",
+    "source": "Official feed",
+    "team": "UNION",
+    "id": "3C506547-ED40-47BB-A402-7B8DB307CC9F",
+    "start": "2026-11-07T21:00:00+00:00",
+    "home": "Philadelphia Union",
+    "away": "Toronto FC",
+    "competition": "Official club calendar",
+    "url": "https://images.mlssoccer.com/raw/upload/v1763747728/assets/PHI/Calendar/phiunion2026.ics",
     "status": "scheduled",
     "scores": null,
-    "venue": "Lenovo Center",
-    "uid": "FLYERS-ESPN-401893687@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893710",
-    "start": "2027-04-08T23:30:00+00:00",
-    "home": "Columbus Blue Jackets",
-    "away": "Philadelphia Flyers",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893710/flyers-blue-jackets",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Nationwide Arena",
-    "uid": "FLYERS-ESPN-401893710@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "FLYERS",
-    "id": "401893720",
-    "start": "2027-04-10T16:30:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Washington Capitals",
-    "competition": "nhl",
-    "url": "https://www.espn.com/nhl/game/_/gameId/401893720/capitals-flyers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
+    "venue": "Subaru Park\\n1 Stadium Dr, Chester, PA  19013, United States",
+    "uid": "UNION-Seed-3d9ef0352e8ff10e@favorite-sports"
   },
   {
     "source": "MLB",
@@ -4159,9 +3328,13 @@
     "away": "Belgium",
     "competition": "uefa.nations",
     "url": "https://www.espn.com/soccer/match/_/gameId/401861129/belgium-france",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Stade de France"
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 4,
+      "away": 1
+    },
+    "venue": "Stade de France",
+    "uid": "FRA-M-ESPN-401861129@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4173,7 +3346,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "FRA-M-Seed-9c66d385d9489b84@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4185,7 +3359,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "FRA-M-Seed-436f793b8f85552e@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4196,9 +3371,13 @@
     "away": "Canada",
     "competition": "fifa.friendly",
     "url": "https://www.espn.com/soccer/match/_/gameId/401905188/canada-united-states",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Allianz Field"
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 1,
+      "away": 0
+    },
+    "venue": "Allianz Field",
+    "uid": "USA-M-ESPN-401905188@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4210,7 +3389,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "USA-M-Seed-f070fa6900f4c1b6@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4222,7 +3402,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "USA-M-Seed-f0348546292c7a27@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4234,7 +3415,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "USA-M-Seed-effa6d7866bf0a11@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4245,9 +3427,13 @@
     "away": "Spain",
     "competition": "fifa.friendly.w",
     "url": "https://www.espn.com/soccer/match/_/gameId/401890785/spain-united-states",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Audi Field"
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 0,
+      "away": 2
+    },
+    "venue": "Audi Field",
+    "uid": "USA-W-ESPN-401890785@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4258,9 +3444,13 @@
     "away": "Spain",
     "competition": "fifa.friendly.w",
     "url": "https://www.espn.com/soccer/match/_/gameId/401890784/spain-united-states",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Subaru Park"
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 2,
+      "away": 2
+    },
+    "venue": "Subaru Park",
+    "uid": "USA-W-ESPN-401890784@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4272,7 +3462,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "USA-W-Seed-708a994b3acbac4b@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4283,9 +3474,13 @@
     "away": "Paris FC",
     "competition": "fra.1",
     "url": "https://www.espn.com/soccer/match/_/gameId/401876445/paris-fc-lorient",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Stade du Moustoir - Yves Allainmat"
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 1,
+      "away": 0
+    },
+    "venue": "Stade du Moustoir - Yves Allainmat",
+    "uid": "PFC-M-ESPN-401876445@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4296,9 +3491,13 @@
     "away": "Stade Rennais",
     "competition": "fra.1",
     "url": "https://www.espn.com/soccer/match/_/gameId/401876433/stade-rennais-paris-fc",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Stade Jean Bouin"
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 4,
+      "away": 3
+    },
+    "venue": "Stade Jean Bouin",
+    "uid": "PFC-M-ESPN-401876433@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4309,8 +3508,11 @@
     "away": "Paris FC",
     "competition": "fra.1",
     "url": "https://www.espn.com/soccer/match/_/gameId/401876427/paris-fc-lens",
-    "status": "scheduled",
-    "scores": null,
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 2,
+      "away": 1
+    },
     "venue": "Stade Bollaert-Delelis",
     "uid": "PFC-M-ESPN-401876427@favorite-sports"
   },
@@ -4325,7 +3527,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-a604b4e8f8a8b242@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4337,7 +3540,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-a37f36f679b55731@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4350,7 +3554,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-d0b4b234d3917518@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4362,7 +3567,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-4cfc0f0df2cac846@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4375,7 +3581,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-4f3cd7e17a86b538@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4387,7 +3594,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-261f59b1ce025771@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4400,7 +3608,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-b35a30a7d6283ba9@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4413,7 +3622,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-837c488ea6822bae@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4425,7 +3635,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-da5824a94d8052fc@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4438,7 +3649,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-ccec6cfda024f567@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4450,7 +3662,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-31aaabafcfdc4d2f@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4463,7 +3676,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-0b85907279b92a6a@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4475,7 +3689,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-bd580d86b7e0cb77@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4487,7 +3702,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-b5c8dcf65d234ddf@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4500,7 +3716,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-8637ef9ab6826937@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4513,7 +3730,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-6c514a7a7c74725e@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4525,7 +3743,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-fa2ff5704bcf8744@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4538,7 +3757,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-2fffaf8a8c4f80ec@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4550,7 +3770,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-664474f9a82643fa@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4562,7 +3783,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-006dd705f1db81b5@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4575,7 +3797,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-d6df62158318d4e2@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4587,7 +3810,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-05121c17975046c4@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4600,7 +3824,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-a37e1adebe81ddbd@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4612,7 +3837,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-e5d21c520996656f@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4625,7 +3851,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Jean Bouin, Paris, France"
+    "venue": "Stade Jean Bouin, Paris, France",
+    "uid": "PFC-M-Seed-89332ec3edb35345@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4637,7 +3864,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-M-Seed-49c696965e21989a@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4648,9 +3876,13 @@
     "away": "Latvia",
     "competition": "fifa.friendly.w",
     "url": "https://www.espn.com/soccer/match/_/gameId/401905174/latvia-france",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Stade Francis Le Basser"
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 9,
+      "away": 0
+    },
+    "venue": "Stade Francis Le Basser",
+    "uid": "FRA-W-ESPN-401905174@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4662,7 +3894,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "FRA-W-Seed-ba7c534a231319f8@favorite-sports"
   },
   {
     "source": "Seed",
@@ -4674,96 +3907,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
-  },
-  {
-    "source": "ESPN",
-    "team": "UNION",
-    "id": "761849",
-    "start": "2026-10-10T23:30:00+00:00",
-    "home": "Philadelphia Union",
-    "away": "Real Salt Lake",
-    "competition": "usa.1",
-    "url": "https://www.espn.com/soccer/match/_/gameId/761849/real-salt-lake-philadelphia-union",
-    "status": "scheduled",
     "scores": null,
-    "venue": "Subaru Park"
-  },
-  {
-    "source": "ESPN",
-    "team": "UNION",
-    "id": "761869",
-    "start": "2026-10-15T00:30:00+00:00",
-    "home": "Chicago Fire FC",
-    "away": "Philadelphia Union",
-    "competition": "usa.1",
-    "url": "https://www.espn.com/soccer/match/_/gameId/761869/philadelphia-union-chicago-fire-fc",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Soldier Field"
-  },
-  {
-    "source": "ESPN",
-    "team": "UNION",
-    "id": "761875",
-    "start": "2026-10-17T18:30:00+00:00",
-    "home": "Philadelphia Union",
-    "away": "Charlotte FC",
-    "competition": "usa.1",
-    "url": "https://www.espn.com/soccer/match/_/gameId/761875/charlotte-fc-philadelphia-union",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Subaru Park"
-  },
-  {
-    "source": "ESPN",
-    "team": "UNION",
-    "id": "761894",
-    "start": "2026-10-24T23:30:00+00:00",
-    "home": "Philadelphia Union",
-    "away": "New England Revolution",
-    "competition": "usa.1",
-    "url": "https://www.espn.com/soccer/match/_/gameId/761894/new-england-revolution-philadelphia-union",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Subaru Park",
-    "uid": "UNION-ESPN-761894@favorite-sports"
-  },
-  {
-    "source": "Seed",
-    "team": "UNION",
-    "id": "7a3bdfc765c468cb",
-    "start": "2026-10-29T00:30:00+00:00",
-    "home": "Nashville SC",
-    "away": "Philadelphia Union",
-    "competition": "Season fixture (initial checked snapshot)",
-    "url": "",
-    "status": "scheduled",
-    "scores": null
-  },
-  {
-    "source": "Seed",
-    "team": "UNION",
-    "id": "fbf02e6f250e299f",
-    "start": "2026-10-31T18:00:00+00:00",
-    "home": "FC Cincinnati",
-    "away": "Philadelphia Union",
-    "competition": "Season fixture (initial checked snapshot)",
-    "url": "",
-    "status": "scheduled",
-    "scores": null
-  },
-  {
-    "source": "Seed",
-    "team": "UNION",
-    "id": "3d9ef0352e8ff10e",
-    "start": "2026-11-07T21:00:00+00:00",
-    "home": "Philadelphia Union",
-    "away": "Toronto FC",
-    "competition": "Season fixture (initial checked snapshot)",
-    "url": "",
-    "status": "scheduled",
-    "scores": null
+    "uid": "FRA-W-Seed-c21f5ea1cc683c60@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4774,9 +3919,13 @@
     "away": "Philadelphia Eagles",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401872981/eagles-jaguars",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Tottenham Hotspur Stadium"
+    "status": "STATUS_FINAL",
+    "scores": {
+      "home": 19,
+      "away": 17
+    },
+    "venue": "Tottenham Hotspur Stadium",
+    "uid": "EAGLES-ESPN-401872981@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4787,9 +3936,13 @@
     "away": "Carolina Panthers",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401872998/panthers-eagles",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Lincoln Financial Field"
+    "status": "STATUS_FINAL",
+    "scores": {
+      "home": 14,
+      "away": 25
+    },
+    "venue": "Lincoln Financial Field",
+    "uid": "EAGLES-ESPN-401872998@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4800,7 +3953,7 @@
     "away": "Dallas Cowboys",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Lincoln Financial Field",
     "uid": "EAGLES-ESPN-401873009@favorite-sports"
@@ -4814,7 +3967,7 @@
     "away": "Philadelphia Eagles",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873035/eagles-commanders",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Northwest Stadium",
     "uid": "EAGLES-ESPN-401873035@favorite-sports"
@@ -4828,7 +3981,7 @@
     "away": "New York Giants",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873044/giants-eagles",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Lincoln Financial Field",
     "uid": "EAGLES-ESPN-401873044@favorite-sports"
@@ -4842,7 +3995,7 @@
     "away": "Pittsburgh Steelers",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873076/steelers-eagles",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Lincoln Financial Field",
     "uid": "EAGLES-ESPN-401873076@favorite-sports"
@@ -4856,7 +4009,7 @@
     "away": "Philadelphia Eagles",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "AT&T Stadium",
     "uid": "EAGLES-ESPN-401873080@favorite-sports"
@@ -4870,7 +4023,7 @@
     "away": "Philadelphia Eagles",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873104/eagles-cardinals",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "State Farm Stadium",
     "uid": "EAGLES-ESPN-401873104@favorite-sports"
@@ -4884,7 +4037,7 @@
     "away": "Indianapolis Colts",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873114/colts-eagles",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Lincoln Financial Field",
     "uid": "EAGLES-ESPN-401873114@favorite-sports"
@@ -4898,7 +4051,7 @@
     "away": "Seattle Seahawks",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873125/seahawks-eagles",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Lincoln Financial Field",
     "uid": "EAGLES-ESPN-401873125@favorite-sports"
@@ -4912,7 +4065,7 @@
     "away": "Houston Texans",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873140/texans-eagles",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Lincoln Financial Field",
     "uid": "EAGLES-ESPN-401873140@favorite-sports"
@@ -4926,7 +4079,7 @@
     "away": "Philadelphia Eagles",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873170/eagles-49ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Levi's Stadium",
     "uid": "EAGLES-ESPN-401873170@favorite-sports"
@@ -4940,7 +4093,7 @@
     "away": "Philadelphia Eagles",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873182/eagles-giants",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "MetLife Stadium",
     "uid": "EAGLES-ESPN-401873182@favorite-sports"
@@ -4954,9 +4107,13 @@
     "away": "Manchester City",
     "competition": "eng.1",
     "url": "https://www.espn.com/soccer/match/_/gameId/401879264/manchester-city-liverpool",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Anfield"
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 0,
+      "away": 3
+    },
+    "venue": "Anfield",
+    "uid": "LFC-ESPN-401879264@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4967,9 +4124,13 @@
     "away": "Liverpool",
     "competition": "uefa.champions",
     "url": "https://www.espn.com/soccer/match/_/gameId/401915415/liverpool-lask-linz",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Raiffeisen Arena (Linz)"
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 3,
+      "away": 6
+    },
+    "venue": "Raiffeisen Arena (Linz)",
+    "uid": "LFC-ESPN-401915415@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4980,9 +4141,13 @@
     "away": "Liverpool",
     "competition": "eng.1",
     "url": "https://www.espn.com/soccer/match/_/gameId/401879262/liverpool-brentford",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Gtech Community Stadium"
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 1,
+      "away": 2
+    },
+    "venue": "Gtech Community Stadium",
+    "uid": "LFC-ESPN-401879262@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4993,9 +4158,13 @@
     "away": "Villarreal",
     "competition": "uefa.champions",
     "url": "https://www.espn.com/soccer/match/_/gameId/401915397/villarreal-liverpool",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Anfield"
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 4,
+      "away": 3
+    },
+    "venue": "Anfield",
+    "uid": "LFC-ESPN-401915397@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -5006,8 +4175,11 @@
     "away": "Brighton & Hove Albion",
     "competition": "eng.1",
     "url": "https://www.espn.com/soccer/match/_/gameId/401878765/brighton-hove-albion-liverpool",
-    "status": "scheduled",
-    "scores": null,
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 2,
+      "away": 0
+    },
     "venue": "Anfield",
     "uid": "LFC-ESPN-401878765@favorite-sports"
   },
@@ -5021,7 +4193,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-d7c9660f1e5e8767@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5033,7 +4206,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-e7d24aaf3d701163@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5045,7 +4219,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-52dea7bc8836cf5c@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5057,7 +4232,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-6a47da88823c2fde@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5069,7 +4245,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-86b125b2a39d48c7@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5081,7 +4258,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-187a1fc5a0f01dca@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5093,7 +4271,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-a5d77033c994e956@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5105,7 +4284,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-5b59df9173579b69@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5117,7 +4297,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-029d499f2f96d070@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5129,7 +4310,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-e7e36bdfad28528c@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5141,7 +4323,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-3dbcc8d6950cb257@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5153,7 +4336,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-2b3d0700434e90bb@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5165,7 +4349,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-fe3705b2eb220292@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5177,7 +4362,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-9396f0173cd7d322@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5189,7 +4375,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-af7e329015c789d5@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5201,7 +4388,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-bf6ab326f320c4ec@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5213,7 +4401,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-dcd3214e138c50e9@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5225,7 +4414,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-de2880e10c778c5d@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5237,7 +4427,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-5ba06ea4982698d4@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5249,7 +4440,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-52b81003260e1b6c@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5261,7 +4453,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-3d4c02a44c172260@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5273,7 +4466,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-b44023d9ff37b5b4@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5285,7 +4479,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-4aaea9017ac9250a@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5297,7 +4492,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-e0603a110667a81c@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5309,7 +4505,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-1e6d11ca126c0080@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5321,7 +4518,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-b17e60fc08f1430c@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5333,7 +4531,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-cdc53c0e30a17f58@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5345,7 +4544,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-c2a139da6e8006b0@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5357,7 +4557,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-58ac5b1aa844658a@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5369,7 +4570,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-712c4a73ae86db39@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5381,7 +4583,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-685363d6fca56073@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5393,7 +4596,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-21b06cca49fa1397@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5405,7 +4609,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-489ca2dd2063a82f@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5417,7 +4622,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-c0ad107a2025a101@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5429,7 +4635,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-5a2276da377f489d@favorite-sports"
   },
   {
     "source": "Seed",
@@ -5441,7 +4648,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "LFC-Seed-265adea4d33712ea@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -5452,9 +4660,13 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909089/76ers-knicks",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Madison Square Garden"
+    "status": "STATUS_FINAL",
+    "scores": {
+      "home": 100,
+      "away": 106
+    },
+    "venue": "Madison Square Garden",
+    "uid": "SIXERS-ESPN-401909089@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -5465,9 +4677,13 @@
     "away": "Cleveland Cavaliers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909093/cavaliers-76ers",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Xfinity Mobile Arena"
+    "status": "STATUS_FINAL",
+    "scores": {
+      "home": 114,
+      "away": 106
+    },
+    "venue": "Xfinity Mobile Arena",
+    "uid": "SIXERS-ESPN-401909093@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -5478,8 +4694,11 @@
     "away": "Milwaukee Bucks",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909855/bucks-76ers",
-    "status": "scheduled",
-    "scores": null,
+    "status": "STATUS_FINAL",
+    "scores": {
+      "home": 127,
+      "away": 116
+    },
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401909855@favorite-sports"
   },
@@ -5492,7 +4711,7 @@
     "away": "Detroit Pistons",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909866/pistons-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401909866@favorite-sports"
@@ -5506,7 +4725,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909884/76ers-pacers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Gainbridge Fieldhouse",
     "uid": "SIXERS-ESPN-401909884@favorite-sports"
@@ -5520,7 +4739,7 @@
     "away": "New York Knicks",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909280/knicks-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401909280@favorite-sports"
@@ -5534,7 +4753,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909897/76ers-hornets",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Spectrum Center",
     "uid": "SIXERS-ESPN-401909897@favorite-sports"
@@ -5548,7 +4767,7 @@
     "away": "Chicago Bulls",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909912/bulls-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401909912@favorite-sports"
@@ -5562,7 +4781,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909922/76ers-pistons",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Little Caesars Arena",
     "uid": "SIXERS-ESPN-401909922@favorite-sports"
@@ -5576,7 +4795,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909289/76ers-cavaliers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Rocket Arena",
     "uid": "SIXERS-ESPN-401909289@favorite-sports"
@@ -5590,7 +4809,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909945/76ers-bulls",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "United Center",
     "uid": "SIXERS-ESPN-401909945@favorite-sports"
@@ -5604,7 +4823,7 @@
     "away": "Boston Celtics",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909961/celtics-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401909961@favorite-sports"
@@ -5618,7 +4837,7 @@
     "away": "Toronto Raptors",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909976/raptors-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401909976@favorite-sports"
@@ -5632,7 +4851,7 @@
     "away": "Indiana Pacers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909985/pacers-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401909985@favorite-sports"
@@ -5646,7 +4865,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909997/76ers-nets",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Barclays Center",
     "uid": "SIXERS-ESPN-401909997@favorite-sports"
@@ -5660,7 +4879,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910010/76ers-magic",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Kia Center",
     "uid": "SIXERS-ESPN-401910010@favorite-sports"
@@ -5674,7 +4893,7 @@
     "away": "Milwaukee Bucks",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910023/bucks-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910023@favorite-sports"
@@ -5688,7 +4907,7 @@
     "away": "Portland Trail Blazers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910037/trail-blazers-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910037@favorite-sports"
@@ -5702,7 +4921,7 @@
     "away": "Miami Heat",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909317/heat-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401909317@favorite-sports"
@@ -5716,7 +4935,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909328/76ers-pacers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Gainbridge Fieldhouse",
     "uid": "SIXERS-ESPN-401909328@favorite-sports"
@@ -5730,7 +4949,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910050/76ers-rockets",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Toyota Center (Houston)",
     "uid": "SIXERS-ESPN-401910050@favorite-sports"
@@ -5744,7 +4963,7 @@
     "away": "Memphis Grizzlies",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910069/grizzlies-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910069@favorite-sports"
@@ -5758,7 +4977,7 @@
     "away": "Denver Nuggets",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910077/nuggets-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910077@favorite-sports"
@@ -5772,7 +4991,7 @@
     "away": "Orlando Magic",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910092/magic-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910092@favorite-sports"
@@ -5786,7 +5005,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910106/76ers-magic",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Kia Center",
     "uid": "SIXERS-ESPN-401910106@favorite-sports"
@@ -5800,7 +5019,7 @@
     "away": "Dallas Mavericks",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910131/mavericks-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910131@favorite-sports"
@@ -5814,7 +5033,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910159/76ers-hornets",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Spectrum Center",
     "uid": "SIXERS-ESPN-401910159@favorite-sports"
@@ -5828,7 +5047,7 @@
     "away": "Houston Rockets",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910179/rockets-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910179@favorite-sports"
@@ -5842,7 +5061,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909099/76ers-lakers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "crypto.com Arena",
     "uid": "SIXERS-ESPN-401909099@favorite-sports"
@@ -5856,7 +5075,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910205/76ers-clippers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Intuit Dome",
     "uid": "SIXERS-ESPN-401910205@favorite-sports"
@@ -5870,7 +5089,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910218/76ers-kings",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Golden 1 Center",
     "uid": "SIXERS-ESPN-401910218@favorite-sports"
@@ -5884,7 +5103,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910223/76ers-suns",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Mortgage Matchup Center",
     "uid": "SIXERS-ESPN-401910223@favorite-sports"
@@ -5898,7 +5117,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910238/76ers-bucks",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Fiserv Forum",
     "uid": "SIXERS-ESPN-401910238@favorite-sports"
@@ -5912,7 +5131,7 @@
     "away": "Atlanta Hawks",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910260/hawks-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910260@favorite-sports"
@@ -5926,7 +5145,7 @@
     "away": "Oklahoma City Thunder",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910275/thunder-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910275@favorite-sports"
@@ -5940,7 +5159,7 @@
     "away": "Miami Heat",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910291/heat-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910291@favorite-sports"
@@ -5954,7 +5173,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910309/76ers-raptors",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Scotiabank Arena",
     "uid": "SIXERS-ESPN-401910309@favorite-sports"
@@ -5968,7 +5187,7 @@
     "away": "Washington Wizards",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910321/wizards-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910321@favorite-sports"
@@ -5982,7 +5201,7 @@
     "away": "Brooklyn Nets",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910336/nets-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910336@favorite-sports"
@@ -5996,7 +5215,7 @@
     "away": "Minnesota Timberwolves",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910351/timberwolves-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910351@favorite-sports"
@@ -6010,7 +5229,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909474/76ers-hawks",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "State Farm Arena",
     "uid": "SIXERS-ESPN-401909474@favorite-sports"
@@ -6024,7 +5243,7 @@
     "away": "Indiana Pacers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910369/pacers-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910369@favorite-sports"
@@ -6038,7 +5257,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910385/76ers-celtics",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "TD Garden",
     "uid": "SIXERS-ESPN-401910385@favorite-sports"
@@ -6052,7 +5271,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910400/76ers-bulls",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "United Center",
     "uid": "SIXERS-ESPN-401910400@favorite-sports"
@@ -6066,7 +5285,7 @@
     "away": "LA Clippers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910415/clippers-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910415@favorite-sports"
@@ -6080,7 +5299,7 @@
     "away": "Sacramento Kings",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910429/kings-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910429@favorite-sports"
@@ -6094,7 +5313,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910441/76ers-pelicans",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Smoothie King Center",
     "uid": "SIXERS-ESPN-401910441@favorite-sports"
@@ -6108,7 +5327,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910451/76ers-heat",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Kaseya Center",
     "uid": "SIXERS-ESPN-401910451@favorite-sports"
@@ -6122,7 +5341,7 @@
     "away": "New Orleans Pelicans",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910468/pelicans-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910468@favorite-sports"
@@ -6136,7 +5355,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910484/76ers-grizzlies",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "FedExForum",
     "uid": "SIXERS-ESPN-401910484@favorite-sports"
@@ -6150,7 +5369,7 @@
     "away": "Detroit Pistons",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910500/pistons-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910500@favorite-sports"
@@ -6164,7 +5383,7 @@
     "away": "Boston Celtics",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910518/celtics-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910518@favorite-sports"
@@ -6178,7 +5397,7 @@
     "away": "Brooklyn Nets",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910523/nets-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910523@favorite-sports"
@@ -6192,7 +5411,7 @@
     "away": "New York Knicks",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910547/knicks-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910547@favorite-sports"
@@ -6206,7 +5425,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910563/76ers-thunder",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Paycom Center",
     "uid": "SIXERS-ESPN-401910563@favorite-sports"
@@ -6220,7 +5439,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909478/76ers-mavericks",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "American Airlines Center",
     "uid": "SIXERS-ESPN-401909478@favorite-sports"
@@ -6234,7 +5453,7 @@
     "away": "Phoenix Suns",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910587/suns-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910587@favorite-sports"
@@ -6248,7 +5467,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910603/76ers-nets",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Barclays Center",
     "uid": "SIXERS-ESPN-401910603@favorite-sports"
@@ -6262,7 +5481,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910621/76ers-knicks",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Madison Square Garden",
     "uid": "SIXERS-ESPN-401910621@favorite-sports"
@@ -6276,7 +5495,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910632/76ers-cavaliers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Rocket Arena",
     "uid": "SIXERS-ESPN-401910632@favorite-sports"
@@ -6290,7 +5509,7 @@
     "away": "Charlotte Hornets",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910648/hornets-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910648@favorite-sports"
@@ -6304,7 +5523,7 @@
     "away": "Los Angeles Lakers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910656/lakers-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910656@favorite-sports"
@@ -6318,7 +5537,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910675/76ers-celtics",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "TD Garden",
     "uid": "SIXERS-ESPN-401910675@favorite-sports"
@@ -6332,7 +5551,7 @@
     "away": "Utah Jazz",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910682/jazz-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910682@favorite-sports"
@@ -6346,7 +5565,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910707/76ers-spurs",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Frost Bank Center",
     "uid": "SIXERS-ESPN-401910707@favorite-sports"
@@ -6360,7 +5579,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910725/76ers-timberwolves",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Target Center",
     "uid": "SIXERS-ESPN-401910725@favorite-sports"
@@ -6374,7 +5593,7 @@
     "away": "Toronto Raptors",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910734/raptors-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910734@favorite-sports"
@@ -6388,7 +5607,7 @@
     "away": "Chicago Bulls",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910749/bulls-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910749@favorite-sports"
@@ -6402,7 +5621,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910758/76ers-wizards",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Capital One Arena",
     "uid": "SIXERS-ESPN-401910758@favorite-sports"
@@ -6416,7 +5635,7 @@
     "away": "San Antonio Spurs",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910784/spurs-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910784@favorite-sports"
@@ -6430,7 +5649,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910797/76ers-jazz",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Delta Center",
     "uid": "SIXERS-ESPN-401910797@favorite-sports"
@@ -6444,7 +5663,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910807/76ers-warriors",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Chase Center",
     "uid": "SIXERS-ESPN-401910807@favorite-sports"
@@ -6458,7 +5677,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910823/76ers-trail-blazers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Moda Center",
     "uid": "SIXERS-ESPN-401910823@favorite-sports"
@@ -6472,7 +5691,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910839/76ers-nuggets",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Ball Arena",
     "uid": "SIXERS-ESPN-401910839@favorite-sports"
@@ -6486,7 +5705,7 @@
     "away": "Golden State Warriors",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910856/warriors-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910856@favorite-sports"
@@ -6500,7 +5719,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910868/76ers-wizards",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Capital One Arena",
     "uid": "SIXERS-ESPN-401910868@favorite-sports"
@@ -6514,7 +5733,7 @@
     "away": "Atlanta Hawks",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910882/hawks-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910882@favorite-sports"
@@ -6528,7 +5747,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910899/76ers-raptors",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Scotiabank Arena",
     "uid": "SIXERS-ESPN-401910899@favorite-sports"
@@ -6542,7 +5761,7 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910918/76ers-heat",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Kaseya Center",
     "uid": "SIXERS-ESPN-401910918@favorite-sports"
@@ -6556,7 +5775,7 @@
     "away": "Charlotte Hornets",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401910942/hornets-76ers",
-    "status": "scheduled",
+    "status": "STATUS_SCHEDULED",
     "scores": null,
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401910942@favorite-sports"
@@ -6572,7 +5791,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Sébastien-Charléty, Paris, France"
+    "venue": "Stade Sébastien-Charléty, Paris, France",
+    "uid": "PFC-W-Seed-4835d78468374c0e@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6585,7 +5805,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Sébastien-Charléty, Paris, France"
+    "venue": "Stade Sébastien-Charléty, Paris, France",
+    "uid": "PFC-W-Seed-1c22349c987be47d@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6598,7 +5819,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Sébastien-Charléty, Paris, France"
+    "venue": "Stade Sébastien-Charléty, Paris, France",
+    "uid": "PFC-W-Seed-43b12e2a389d2e9c@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6610,7 +5832,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-W-Seed-41f55768c7625678@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6622,7 +5845,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-W-Seed-cb79a8cdc3a705c3@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6635,7 +5859,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": null
+    "venue": null,
+    "uid": "PFC-W-Seed-e80e257207b0b78e@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6648,7 +5873,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": null
+    "venue": null,
+    "uid": "PFC-W-Seed-5b4e6c33fe8e7613@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6661,7 +5887,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": null
+    "venue": null,
+    "uid": "PFC-W-Seed-b33df98b93510ed5@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6673,7 +5900,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-W-Seed-270faba3ed5068a2@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6685,7 +5913,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-W-Seed-a215427fd44bc81f@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6698,7 +5927,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Sébastien-Charléty, Paris, France"
+    "venue": "Stade Sébastien-Charléty, Paris, France",
+    "uid": "PFC-W-Seed-716774845e9f772a@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6710,7 +5940,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-W-Seed-655adf3933e5a33f@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6722,7 +5953,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-W-Seed-0a49701f558c24a3@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6735,7 +5967,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Sébastien-Charléty, Paris, France"
+    "venue": "Stade Sébastien-Charléty, Paris, France",
+    "uid": "PFC-W-Seed-9c3ac8c0bf30da64@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6747,7 +5980,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-W-Seed-335ff5cbbc7f2e8d@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6759,7 +5993,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-W-Seed-be09c4e7b4443fab@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6772,7 +6007,8 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": "Stade Sébastien-Charléty, Paris, France"
+    "venue": "Stade Sébastien-Charléty, Paris, France",
+    "uid": "PFC-W-Seed-c45d94a370ad5d27@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6784,7 +6020,8 @@
     "competition": "Season fixture (initial checked snapshot)",
     "url": "",
     "status": "scheduled",
-    "scores": null
+    "scores": null,
+    "uid": "PFC-W-Seed-5d2287b19877af42@favorite-sports"
   },
   {
     "source": "Seed",
@@ -6797,6 +6034,7 @@
     "url": "",
     "status": "scheduled",
     "scores": null,
-    "venue": null
+    "venue": null,
+    "uid": "PFC-W-Seed-ed363af22ed1a050@favorite-sports"
   }
 ]
