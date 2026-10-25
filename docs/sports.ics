@@ -1,0 +1,3772 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Personal Sports Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Favorite Sports - live fixtures
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020168@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261024T170000Z
+DTEND:20261024T200000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Anaheim
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020168\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020168
+END:VEVENT
+BEGIN:VEVENT
+UID:PFC-M-ESPN-401876427@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261024T184500Z
+DTEND:20261024T210000Z
+SUMMARY:Paris FC (men): Lens vs Paris FC
+DESCRIPTION:Competition: fra.1\nSource: ESPN\nSource URL: https://www.esp
+ n.com/soccer/match/_/gameId/401876427/paris-fc-lens\nKickoff and TV righ
+ ts may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/soccer/match/_/gameId/401876427/paris-fc-lens
+END:VEVENT
+BEGIN:VEVENT
+UID:UNION-ESPN-761894@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261024T233000Z
+DTEND:20261025T014500Z
+SUMMARY:Philadelphia Union: Philadelphia Union vs New England Revolution
+DESCRIPTION:Competition: usa.1\nSource: ESPN\nSource URL: https://www.esp
+ n.com/soccer/match/_/gameId/761894/new-england-revolution-philadelphia-u
+ nion\nKickoff and TV rights may change. Viewer providers are not reliabl
+ y known far in advance.
+URL:https://www.espn.com/soccer/match/_/gameId/761894/new-england-revolut
+ ion-philadelphia-union
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909855@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261024T233000Z
+DTEND:20261025T023000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Milwaukee Bucks
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909855/bucks-76ers\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909855/bucks-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:LFC-ESPN-401878765@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261025T140000Z
+DTEND:20261025T161500Z
+SUMMARY:Liverpool FC: Liverpool vs Brighton & Hove Albion
+DESCRIPTION:Competition: eng.1\nSource: ESPN\nSource URL: https://www.esp
+ n.com/soccer/match/_/gameId/401878765/brighton-hove-albion-liverpool\nKi
+ ckoff and TV rights may change. Viewer providers are not reliably known 
+ far in advance.
+URL:https://www.espn.com/soccer/match/_/gameId/401878765/brighton-hove-al
+ bion-liverpool
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909866@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261025T233000Z
+DTEND:20261026T023000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Detroit Pistons
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909866/pistons-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909866/pistons-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:EAGLES-ESPN-401873009@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261027T001500Z
+DTEND:20261027T041500Z
+SUMMARY:Philadelphia Eagles: Philadelphia Eagles vs Dallas Cowboys
+DESCRIPTION:Competition: nfl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nfl/game/_/gameId/401873009/cowboys-eagles\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020188@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261027T230000Z
+DTEND:20261028T020000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Columbus
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020188\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020188
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892585@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261027T230000Z
+DTEND:20261028T020000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Columbus Blue Jackets
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892585/blue-jackets-flyers\nKickoff and TV righ
+ ts may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892585/blue-jackets-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909884@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261028T230000Z
+DTEND:20261029T020000Z
+SUMMARY:Philadelphia 76ers: Indiana Pacers vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909884/76ers-pacers\nKickoff and TV rights may 
+ change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909884/76ers-pacers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020199@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261028T233000Z
+DTEND:20261029T023000Z
+SUMMARY:Philadelphia Flyers: Washington vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020199\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020199
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909280@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261030T233000Z
+DTEND:20261031T023000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs New York Knicks
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909280/knicks-76ers\nKickoff and TV rights may 
+ change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909280/knicks-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909897@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261031T220000Z
+DTEND:20261101T010000Z
+SUMMARY:Philadelphia 76ers: Charlotte Hornets vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909897/76ers-hornets\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909897/76ers-hornets
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020229@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261101T210000Z
+DTEND:20261102T000000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Utah
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020229\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020229
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892626@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261101T210000Z
+DTEND:20261102T000000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Utah Mammoth
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892626/mammoth-flyers\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892626/mammoth-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:EAGLES-ESPN-401873035@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261102T012000Z
+DTEND:20261102T052000Z
+SUMMARY:Philadelphia Eagles: Washington Commanders vs Philadelphia Eagles
+DESCRIPTION:Competition: nfl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nfl/game/_/gameId/401873035/eagles-commanders\nKickoff and TV rights
+  may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nfl/game/_/gameId/401873035/eagles-commanders
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909912@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261103T003000Z
+DTEND:20261103T033000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Chicago Bulls
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909912/bulls-76ers\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909912/bulls-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020241@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261104T000000Z
+DTEND:20261104T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Minnesota
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020241\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020241
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909922@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261105T000000Z
+DTEND:20261105T030000Z
+SUMMARY:Philadelphia 76ers: Detroit Pistons vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909922/76ers-pistons\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909922/76ers-pistons
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020256@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Philadelphia Flyers: New York vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020256\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020256
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892653@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Philadelphia Flyers: New York Rangers vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892653/flyers-rangers\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892653/flyers-rangers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909289@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261107T003000Z
+DTEND:20261107T033000Z
+SUMMARY:Philadelphia 76ers: Cleveland Cavaliers vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909289/76ers-cavaliers\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909289/76ers-cavaliers
+END:VEVENT
+BEGIN:VEVENT
+UID:EAGLES-ESPN-401873044@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261108T180000Z
+DTEND:20261108T220000Z
+SUMMARY:Philadelphia Eagles: Philadelphia Eagles vs New York Giants
+DESCRIPTION:Competition: nfl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nfl/game/_/gameId/401873044/giants-eagles\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nfl/game/_/gameId/401873044/giants-eagles
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909945@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261108T203000Z
+DTEND:20261108T233000Z
+SUMMARY:Philadelphia 76ers: Chicago Bulls vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909945/76ers-bulls\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909945/76ers-bulls
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020281@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261109T000000Z
+DTEND:20261109T030000Z
+SUMMARY:Philadelphia Flyers: Calgary vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020281\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020281
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020284@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261110T023000Z
+DTEND:20261110T053000Z
+SUMMARY:Philadelphia Flyers: Vancouver vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020284\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020284
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909961@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261111T010000Z
+DTEND:20261111T040000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Boston Celtics
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909961/celtics-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909961/celtics-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020295@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261112T020000Z
+DTEND:20261112T050000Z
+SUMMARY:Philadelphia Flyers: Edmonton vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020295\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020295
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909976@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261113T000000Z
+DTEND:20261113T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Toronto Raptors
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909976/raptors-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909976/raptors-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020319@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Philadelphia Flyers: Columbus vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020319\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020319
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892715@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Philadelphia Flyers: Columbus Blue Jackets vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892715/flyers-blue-jackets\nKickoff and TV righ
+ ts may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892715/flyers-blue-jackets
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909985@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Indiana Pacers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909985/pacers-76ers\nKickoff and TV rights may 
+ change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909985/pacers-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020326@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261116T003000Z
+DTEND:20261116T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Edmonton
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020326\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020326
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909997@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261117T003000Z
+DTEND:20261117T033000Z
+SUMMARY:Philadelphia 76ers: Brooklyn Nets vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909997/76ers-nets\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909997/76ers-nets
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020337@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261118T000000Z
+DTEND:20261118T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Buffalo
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020337\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020337
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910010@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261119T000000Z
+DTEND:20261119T030000Z
+SUMMARY:Philadelphia 76ers: Orlando Magic vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910010/76ers-magic\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910010/76ers-magic
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020348@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Philadelphia Flyers: Ottawa vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020348\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020348
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892743@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Philadelphia Flyers: Ottawa Senators vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892743/flyers-senators\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892743/flyers-senators
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910023@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261121T180000Z
+DTEND:20261121T210000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Milwaukee Bucks
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910023/bucks-76ers\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910023/bucks-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020365@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Philadelphia Flyers: Montréal vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020365\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020365
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892760@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Philadelphia Flyers: Montreal Canadiens vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892760/flyers-canadiens\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892760/flyers-canadiens
+END:VEVENT
+BEGIN:VEVENT
+UID:EAGLES-ESPN-401873076@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261122T212500Z
+DTEND:20261123T012500Z
+SUMMARY:Philadelphia Eagles: Philadelphia Eagles vs Pittsburgh Steelers
+DESCRIPTION:Competition: nfl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nfl/game/_/gameId/401873076/steelers-eagles\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nfl/game/_/gameId/401873076/steelers-eagles
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910037@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261124T000000Z
+DTEND:20261124T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Portland Trail Blazers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910037/trail-blazers-76ers\nKickoff and TV righ
+ ts may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910037/trail-blazers-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909317@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261125T220000Z
+DTEND:20261126T010000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Miami Heat
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909317/heat-76ers\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909317/heat-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020392@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Philadelphia Flyers: Washington vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020392\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020392
+END:VEVENT
+BEGIN:VEVENT
+UID:EAGLES-ESPN-401873080@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261126T213000Z
+DTEND:20261127T013000Z
+SUMMARY:Philadelphia Eagles: Dallas Cowboys vs Philadelphia Eagles
+DESCRIPTION:Competition: nfl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nfl/game/_/gameId/401873080/eagles-cowboys\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nfl/game/_/gameId/401873080/eagles-cowboys
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020405@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Vancouver
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020405\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020405
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909328@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261128T003000Z
+DTEND:20261128T033000Z
+SUMMARY:Philadelphia 76ers: Indiana Pacers vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909328/76ers-pacers\nKickoff and TV rights may 
+ change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909328/76ers-pacers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020423@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261129T003000Z
+DTEND:20261129T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs New York
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020423\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020423
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892818@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261129T003000Z
+DTEND:20261129T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs New York Islanders
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892818/islanders-flyers\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892818/islanders-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910050@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261129T013000Z
+DTEND:20261129T043000Z
+SUMMARY:Philadelphia 76ers: Houston Rockets vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910050/76ers-rockets\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910050/76ers-rockets
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020433@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261201T003000Z
+DTEND:20261201T033000Z
+SUMMARY:Philadelphia Flyers: Toronto vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020433\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020433
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892828@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261201T003000Z
+DTEND:20261201T033000Z
+SUMMARY:Philadelphia Flyers: Toronto Maple Leafs vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892828/flyers-maple-leafs\nKickoff and TV right
+ s may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892828/flyers-maple-leafs
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910069@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261202T000000Z
+DTEND:20261202T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Memphis Grizzlies
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910069/grizzlies-76ers\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910069/grizzlies-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910077@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261203T000000Z
+DTEND:20261203T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Denver Nuggets
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910077/nuggets-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910077/nuggets-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020452@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261204T003000Z
+DTEND:20261204T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs New York
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020452\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020452
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892847@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261204T003000Z
+DTEND:20261204T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs New York Islanders
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892847/islanders-flyers\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892847/islanders-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020473@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261206T010000Z
+DTEND:20261206T040000Z
+SUMMARY:Philadelphia Flyers: Minnesota vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020473\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020473
+END:VEVENT
+BEGIN:VEVENT
+UID:EAGLES-ESPN-401873104@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261206T210500Z
+DTEND:20261207T010500Z
+SUMMARY:Philadelphia Eagles: Arizona Cardinals vs Philadelphia Eagles
+DESCRIPTION:Competition: nfl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nfl/game/_/gameId/401873104/eagles-cardinals\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nfl/game/_/gameId/401873104/eagles-cardinals
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020492@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261209T000000Z
+DTEND:20261209T030000Z
+SUMMARY:Philadelphia Flyers: Winnipeg vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020492\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020492
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020511@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261212T000000Z
+DTEND:20261212T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Calgary
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020511\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020511
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910092@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261213T003000Z
+DTEND:20261213T033000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Orlando Magic
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910092/magic-76ers\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910092/magic-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:EAGLES-ESPN-401873114@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261213T180000Z
+DTEND:20261213T220000Z
+SUMMARY:Philadelphia Eagles: Philadelphia Eagles vs Indianapolis Colts
+DESCRIPTION:Competition: nfl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nfl/game/_/gameId/401873114/colts-eagles\nKickoff and TV rights may 
+ change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nfl/game/_/gameId/401873114/colts-eagles
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020532@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261215T000000Z
+DTEND:20261215T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Florida
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020532\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020532
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892927@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261215T000000Z
+DTEND:20261215T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Florida Panthers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892927/panthers-flyers\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892927/panthers-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910106@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261215T000000Z
+DTEND:20261215T030000Z
+SUMMARY:Philadelphia 76ers: Orlando Magic vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910106/76ers-magic\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910106/76ers-magic
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020547@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261217T003000Z
+DTEND:20261217T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs New York
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020547\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020547
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892942@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261217T003000Z
+DTEND:20261217T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs New York Rangers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892942/rangers-flyers\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892942/rangers-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910131@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261218T000000Z
+DTEND:20261218T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Dallas Mavericks
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910131/mavericks-76ers\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910131/mavericks-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020562@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261219T000000Z
+DTEND:20261219T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Detroit
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020562\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020562
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892956@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261219T000000Z
+DTEND:20261219T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Detroit Red Wings
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892956/red-wings-flyers\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892956/red-wings-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:EAGLES-ESPN-401873125@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261219T220000Z
+DTEND:20261220T020000Z
+SUMMARY:Philadelphia Eagles: Philadelphia Eagles vs Seattle Seahawks
+DESCRIPTION:Competition: nfl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nfl/game/_/gameId/401873125/seahawks-eagles\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nfl/game/_/gameId/401873125/seahawks-eagles
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020576@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Philadelphia Flyers: Boston vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020576\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020576
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892970@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Philadelphia Flyers: Boston Bruins vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892970/flyers-bruins\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892970/flyers-bruins
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020587@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Columbus
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020587\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020587
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401892980@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Columbus Blue Jackets
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401892980/blue-jackets-flyers\nKickoff and TV righ
+ ts may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401892980/blue-jackets-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910159@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:Philadelphia 76ers: Charlotte Hornets vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910159/76ers-hornets\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910159/76ers-hornets
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910179@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261224T003000Z
+DTEND:20261224T033000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Houston Rockets
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910179/rockets-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910179/rockets-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:EAGLES-ESPN-401873140@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261225T011500Z
+DTEND:20261225T051500Z
+SUMMARY:Philadelphia Eagles: Philadelphia Eagles vs Houston Texans
+DESCRIPTION:Competition: nfl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nfl/game/_/gameId/401873140/texans-eagles\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nfl/game/_/gameId/401873140/texans-eagles
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909099@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261225T220000Z
+DTEND:20261226T010000Z
+SUMMARY:Philadelphia 76ers: Los Angeles Lakers vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909099/76ers-lakers\nKickoff and TV rights may 
+ change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909099/76ers-lakers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020612@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261227T200000Z
+DTEND:20261227T230000Z
+SUMMARY:Philadelphia Flyers: Chicago vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020612\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020612
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893005@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261227T200000Z
+DTEND:20261227T230000Z
+SUMMARY:Philadelphia Flyers: Chicago Blackhawks vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893005/flyers-blackhawks\nKickoff and TV rights
+  may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893005/flyers-blackhawks
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910205@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261228T020000Z
+DTEND:20261228T050000Z
+SUMMARY:Philadelphia 76ers: LA Clippers vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910205/76ers-clippers\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910205/76ers-clippers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020635@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261230T024000Z
+DTEND:20261230T054000Z
+SUMMARY:Philadelphia Flyers: Seattle vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020635\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020635
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910218@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261230T030000Z
+DTEND:20261230T060000Z
+SUMMARY:Philadelphia 76ers: Sacramento Kings vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910218/76ers-kings\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910218/76ers-kings
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910223@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20261231T020000Z
+DTEND:20261231T050000Z
+SUMMARY:Philadelphia 76ers: Phoenix Suns vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910223/76ers-suns\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910223/76ers-suns
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020653@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270101T210000Z
+DTEND:20270102T000000Z
+SUMMARY:Philadelphia Flyers: San Jose vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020653\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020653
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910238@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270102T010000Z
+DTEND:20270102T040000Z
+SUMMARY:Philadelphia 76ers: Milwaukee Bucks vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910238/76ers-bucks\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910238/76ers-bucks
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020672@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270104T010000Z
+DTEND:20270104T040000Z
+SUMMARY:Philadelphia Flyers: Anaheim vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020672\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020672
+END:VEVENT
+BEGIN:VEVENT
+UID:EAGLES-ESPN-401873170@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270104T012000Z
+DTEND:20270104T052000Z
+SUMMARY:Philadelphia Eagles: San Francisco 49ers vs Philadelphia Eagles
+DESCRIPTION:Competition: nfl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nfl/game/_/gameId/401873170/eagles-49ers\nKickoff and TV rights may 
+ change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nfl/game/_/gameId/401873170/eagles-49ers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910260@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270105T000000Z
+DTEND:20270105T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Atlanta Hawks
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910260/hawks-76ers\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910260/hawks-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020679@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270105T030000Z
+DTEND:20270105T060000Z
+SUMMARY:Philadelphia Flyers: Los Angeles vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020679\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020679
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910275@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270107T003000Z
+DTEND:20270107T033000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Oklahoma City Thunder
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910275/thunder-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910275/thunder-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020697@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Toronto
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020697\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020697
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893089@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Toronto Maple Leafs
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893089/maple-leafs-flyers\nKickoff and TV right
+ s may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893089/maple-leafs-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910291@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270109T000000Z
+DTEND:20270109T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Miami Heat
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910291/heat-76ers\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910291/heat-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020713@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270110T000000Z
+DTEND:20270110T030000Z
+SUMMARY:Philadelphia Flyers: Toronto vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020713\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020713
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893105@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270110T000000Z
+DTEND:20270110T030000Z
+SUMMARY:Philadelphia Flyers: Toronto Maple Leafs vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893105/flyers-maple-leafs\nKickoff and TV right
+ s may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893105/flyers-maple-leafs
+END:VEVENT
+BEGIN:VEVENT
+UID:EAGLES-ESPN-401873182@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270110T050000Z
+DTEND:20270110T090000Z
+SUMMARY:Philadelphia Eagles: New York Giants vs Philadelphia Eagles
+DESCRIPTION:Competition: nfl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nfl/game/_/gameId/401873182/eagles-giants\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nfl/game/_/gameId/401873182/eagles-giants
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910309@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270110T230000Z
+DTEND:20270111T020000Z
+SUMMARY:Philadelphia 76ers: Toronto Raptors vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910309/76ers-raptors\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910309/76ers-raptors
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020722@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270111T003000Z
+DTEND:20270111T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Chicago
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020722\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020722
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893114@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270111T003000Z
+DTEND:20270111T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Chicago Blackhawks
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893114/blackhawks-flyers\nKickoff and TV rights
+  may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893114/blackhawks-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020733@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270113T010000Z
+DTEND:20270113T040000Z
+SUMMARY:Philadelphia Flyers: Nashville vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020733\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020733
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893125@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270113T010000Z
+DTEND:20270113T040000Z
+SUMMARY:Philadelphia Flyers: Nashville Predators vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893125/flyers-predators\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893125/flyers-predators
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910321@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270113T010000Z
+DTEND:20270113T040000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Washington Wizards
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910321/wizards-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910321/wizards-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910336@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Brooklyn Nets
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910336/nets-76ers\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910336/nets-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020755@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270116T000000Z
+DTEND:20270116T030000Z
+SUMMARY:Philadelphia Flyers: Carolina vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020755\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020755
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893147@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270116T000000Z
+DTEND:20270116T030000Z
+SUMMARY:Philadelphia Flyers: Carolina Hurricanes vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893147/flyers-hurricanes\nKickoff and TV rights
+  may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893147/flyers-hurricanes
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910351@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270116T173000Z
+DTEND:20270116T203000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Minnesota Timberwolves
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910351/timberwolves-76ers\nKickoff and TV right
+ s may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910351/timberwolves-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020764@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Montréal
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020764\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020764
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893156@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Montreal Canadiens
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893156/canadiens-flyers\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893156/canadiens-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909474@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270118T193000Z
+DTEND:20270118T223000Z
+SUMMARY:Philadelphia 76ers: Atlanta Hawks vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909474/76ers-hawks\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909474/76ers-hawks
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020788@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Philadelphia Flyers: New York vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020788\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020788
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893180@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Philadelphia Flyers: New York Rangers vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893180/flyers-rangers\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893180/flyers-rangers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910369@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Indiana Pacers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910369/pacers-76ers\nKickoff and TV rights may 
+ change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910369/pacers-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020802@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270122T000000Z
+DTEND:20270122T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Nashville
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020802\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020802
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893194@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270122T000000Z
+DTEND:20270122T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Nashville Predators
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893194/predators-flyers\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893194/predators-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910385@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270122T003000Z
+DTEND:20270122T033000Z
+SUMMARY:Philadelphia 76ers: Boston Celtics vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910385/76ers-celtics\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910385/76ers-celtics
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910400@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270123T220000Z
+DTEND:20270124T010000Z
+SUMMARY:Philadelphia 76ers: Chicago Bulls vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910400/76ers-bulls\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910400/76ers-bulls
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020820@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270124T003000Z
+DTEND:20270124T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs New Jersey
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020820\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020820
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910415@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270126T000000Z
+DTEND:20270126T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs LA Clippers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910415/clippers-76ers\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910415/clippers-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020839@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Florida
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020839\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020839
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893231@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Florida Panthers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893231/panthers-flyers\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893231/panthers-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910429@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270128T000000Z
+DTEND:20270128T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Sacramento Kings
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910429/kings-76ers\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910429/kings-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020850@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270129T003000Z
+DTEND:20270129T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Los Angeles
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020850\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020850
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910441@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270129T010000Z
+DTEND:20270129T040000Z
+SUMMARY:Philadelphia 76ers: New Orleans Pelicans vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910441/76ers-pelicans\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910441/76ers-pelicans
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910451@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270130T173000Z
+DTEND:20270130T203000Z
+SUMMARY:Philadelphia 76ers: Miami Heat vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910451/76ers-heat\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910451/76ers-heat
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020864@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270130T180000Z
+DTEND:20270130T210000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Winnipeg
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020864\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020864
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020878@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270131T170000Z
+DTEND:20270131T200000Z
+SUMMARY:Philadelphia Flyers: Pittsburgh vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020878\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020878
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910468@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270202T000000Z
+DTEND:20270202T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs New Orleans Pelicans
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910468/pelicans-76ers\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910468/pelicans-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020890@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270204T003000Z
+DTEND:20270204T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Tampa Bay
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020890\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020890
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893282@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270204T003000Z
+DTEND:20270204T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Tampa Bay Lightning
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893282/lightning-flyers\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893282/lightning-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910484@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270204T010000Z
+DTEND:20270204T040000Z
+SUMMARY:Philadelphia 76ers: Memphis Grizzlies vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910484/76ers-grizzlies\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910484/76ers-grizzlies
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910500@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270206T000000Z
+DTEND:20270206T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Detroit Pistons
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910500/pistons-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910500/pistons-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910518@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270208T000000Z
+DTEND:20270208T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Boston Celtics
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910518/celtics-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910518/celtics-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910523@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270209T000000Z
+DTEND:20270209T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Brooklyn Nets
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910523/nets-76ers\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910523/nets-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910547@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs New York Knicks
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910547/knicks-76ers\nKickoff and TV rights may 
+ change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910547/knicks-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910563@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270213T223000Z
+DTEND:20270214T013000Z
+SUMMARY:Philadelphia 76ers: Oklahoma City Thunder vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910563/76ers-thunder\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910563/76ers-thunder
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020923@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270214T003000Z
+DTEND:20270214T033000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs New Jersey
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020923\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020923
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401909478@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270215T193000Z
+DTEND:20270215T223000Z
+SUMMARY:Philadelphia 76ers: Dallas Mavericks vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401909478/76ers-mavericks\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401909478/76ers-mavericks
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020936@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270216T010000Z
+DTEND:20270216T040000Z
+SUMMARY:Philadelphia Flyers: St. Louis vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020936\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020936
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910587@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270218T000000Z
+DTEND:20270218T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Phoenix Suns
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910587/suns-76ers\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910587/suns-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020957@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270219T020000Z
+DTEND:20270219T050000Z
+SUMMARY:Philadelphia Flyers: Dallas vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020957\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020957
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868569@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270219T083300Z
+DTEND:20270219T120300Z
+SUMMARY:Philadelphia Phillies: Detroit Tigers vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868569\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868569
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868558@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270220T083300Z
+DTEND:20270220T120300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Toronto Blue Jays
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868558\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868558
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020967@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270220T173000Z
+DTEND:20270220T203000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs New York
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020967\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020967
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893359@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270220T173000Z
+DTEND:20270220T203000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs New York Rangers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893359/rangers-flyers\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893359/rangers-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868547@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270221T083300Z
+DTEND:20270221T120300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs New York Yankees
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868547\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868547
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868544@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270222T180500Z
+DTEND:20270222T213500Z
+SUMMARY:Philadelphia Phillies: Minnesota Twins vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868544\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868544
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020986@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270222T190000Z
+DTEND:20270222T220000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Montréal
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020986\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020986
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893377@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270222T190000Z
+DTEND:20270222T220000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Montreal Canadiens
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893377/canadiens-flyers\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893377/canadiens-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868542@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270223T083300Z
+DTEND:20270223T120300Z
+SUMMARY:Philadelphia Phillies: Boston Red Sox vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868542\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868542
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868540@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270224T083300Z
+DTEND:20270224T120300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Detroit Tigers
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868540\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868540
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026020999@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270225T000000Z
+DTEND:20270225T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Buffalo
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026020999\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026020999
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868525@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270225T083300Z
+DTEND:20270225T120300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Pittsburgh Pirate
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868525\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868525
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910603@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270226T003000Z
+DTEND:20270226T033000Z
+SUMMARY:Philadelphia 76ers: Brooklyn Nets vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910603/76ers-nets\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910603/76ers-nets
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868519@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270226T083300Z
+DTEND:20270226T120300Z
+SUMMARY:Philadelphia Phillies: New York Yankees vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868519\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868519
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021013@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270227T000000Z
+DTEND:20270227T030000Z
+SUMMARY:Philadelphia Flyers: New York vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021013\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021013
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893403@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270227T000000Z
+DTEND:20270227T030000Z
+SUMMARY:Philadelphia Flyers: New York Islanders vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893403/flyers-islanders\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893403/flyers-islanders
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868503@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270227T083300Z
+DTEND:20270227T120300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Minnesota Twins
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868503\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868503
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021023@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs San Jose
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021023\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021023
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910621@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270228T013000Z
+DTEND:20270228T043000Z
+SUMMARY:Philadelphia 76ers: New York Knicks vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910621/76ers-knicks\nKickoff and TV rights may 
+ change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910621/76ers-knicks
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868494@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270228T083300Z
+DTEND:20270228T120300Z
+SUMMARY:Philadelphia Phillies: Pittsburgh Pirates vs Philadelphia Phillie
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868494\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868494
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868491@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270301T180500Z
+DTEND:20270301T213500Z
+SUMMARY:Philadelphia Phillies: Baltimore Orioles vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868491\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868491
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910632@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270302T000000Z
+DTEND:20270302T030000Z
+SUMMARY:Philadelphia 76ers: Cleveland Cavaliers vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910632/76ers-cavaliers\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910632/76ers-cavaliers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021046@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270303T000000Z
+DTEND:20270303T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Vegas
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021046\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021046
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893437@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270303T000000Z
+DTEND:20270303T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Vegas Golden Knights
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893437/golden-knights-flyers\nKickoff and TV ri
+ ghts may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893437/golden-knights-flyer
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868480@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270303T083300Z
+DTEND:20270303T120300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs New York Yankees
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868480\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868480
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910648@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270304T000000Z
+DTEND:20270304T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Charlotte Hornets
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910648/hornets-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910648/hornets-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868484@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270304T083300Z
+DTEND:20270304T120300Z
+SUMMARY:Philadelphia Phillies: Detroit Tigers vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868484\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868484
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910656@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270305T000000Z
+DTEND:20270305T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Los Angeles Lakers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910656/lakers-76ers\nKickoff and TV rights may 
+ change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910656/lakers-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868472@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270305T083300Z
+DTEND:20270305T120300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Pittsburgh Pirate
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868472\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868472
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021064@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270306T000000Z
+DTEND:20270306T030000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Dallas
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021064\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021064
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868456@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270306T083300Z
+DTEND:20270306T120300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Toronto Blue Jays
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868456\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868456
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910675@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270307T180000Z
+DTEND:20270307T210000Z
+SUMMARY:Philadelphia 76ers: Boston Celtics vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910675/76ers-celtics\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910675/76ers-celtics
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868453@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270307T180500Z
+DTEND:20270307T213500Z
+SUMMARY:Philadelphia Phillies: Baltimore Orioles vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868453\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868453
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021081@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270307T203000Z
+DTEND:20270307T233000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs St. Louis
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021081\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021081
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868435@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270308T083300Z
+DTEND:20270308T120300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Boston Red Sox
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868435\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868435
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910682@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270309T000000Z
+DTEND:20270309T030000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Utah Jazz
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910682/jazz-76ers\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910682/jazz-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868443@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270309T083300Z
+DTEND:20270309T120300Z
+SUMMARY:Philadelphia Phillies: Tampa Bay Rays vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868443\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868443
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021101@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270310T020000Z
+DTEND:20270310T050000Z
+SUMMARY:Philadelphia Flyers: Colorado vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021101\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021101
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893492@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270310T020000Z
+DTEND:20270310T050000Z
+SUMMARY:Philadelphia Flyers: Colorado Avalanche vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893492/flyers-avalanche\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893492/flyers-avalanche
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868421@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270310T083300Z
+DTEND:20270310T120300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs New York Yankees
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868421\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868421
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910707@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270312T003000Z
+DTEND:20270312T033000Z
+SUMMARY:Philadelphia 76ers: San Antonio Spurs vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910707/76ers-spurs\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910707/76ers-spurs
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021116@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270312T030000Z
+DTEND:20270312T060000Z
+SUMMARY:Philadelphia Flyers: Vegas vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021116\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021116
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893507@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270312T030000Z
+DTEND:20270312T060000Z
+SUMMARY:Philadelphia Flyers: Vegas Golden Knights vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893507/flyers-golden-knights\nKickoff and TV ri
+ ghts may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893507/flyers-golden-knight
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868420@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270312T083300Z
+DTEND:20270312T120300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Detroit Tigers
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868420\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868420
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868414@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270313T083300Z
+DTEND:20270313T120300Z
+SUMMARY:Philadelphia Phillies: Toronto Blue Jays vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868414\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868414
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021130@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270313T220000Z
+DTEND:20270314T010000Z
+SUMMARY:Philadelphia Flyers: Utah vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021130\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021130
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893513@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270313T220000Z
+DTEND:20270314T010000Z
+SUMMARY:Philadelphia Flyers: Utah Mammoth vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893513/flyers-mammoth\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893513/flyers-mammoth
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910725@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270314T013000Z
+DTEND:20270314T043000Z
+SUMMARY:Philadelphia 76ers: Minnesota Timberwolves vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910725/76ers-timberwolves\nKickoff and TV right
+ s may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910725/76ers-timberwolves
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868395@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270314T073300Z
+DTEND:20270314T110300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Atlanta Braves
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868395\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868395
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868401@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270314T170500Z
+DTEND:20270314T203500Z
+SUMMARY:Philadelphia Phillies: Baltimore Orioles vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868401\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868401
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868385@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270315T073300Z
+DTEND:20270315T110300Z
+SUMMARY:Philadelphia Phillies: Pittsburgh Pirates vs Philadelphia Phillie
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868385\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868385
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910734@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270315T230000Z
+DTEND:20270316T020000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Toronto Raptors
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910734/raptors-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910734/raptors-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868393@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270316T073300Z
+DTEND:20270316T110300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Toronto Blue Jays
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868393\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868393
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021149@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270316T230000Z
+DTEND:20270317T020000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Detroit
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021149\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021149
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893540@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270316T230000Z
+DTEND:20270317T020000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Detroit Red Wings
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893540/red-wings-flyers\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893540/red-wings-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868387@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270317T073300Z
+DTEND:20270317T110300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Baltimore Orioles
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868387\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868387
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910749@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270317T230000Z
+DTEND:20270318T020000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Chicago Bulls
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910749/bulls-76ers\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910749/bulls-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868379@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270318T073300Z
+DTEND:20270318T110300Z
+SUMMARY:Philadelphia Phillies: Atlanta Braves vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868379\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868379
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021166@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270318T230000Z
+DTEND:20270319T020000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Boston
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021166\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021166
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893557@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270318T230000Z
+DTEND:20270319T020000Z
+SUMMARY:Philadelphia Flyers: Philadelphia Flyers vs Boston Bruins
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893557/bruins-flyers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893557/bruins-flyers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910758@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270318T230000Z
+DTEND:20270319T020000Z
+SUMMARY:Philadelphia 76ers: Washington Wizards vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910758/76ers-wizards\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910758/76ers-wizards
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868376@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270319T073300Z
+DTEND:20270319T110300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Tampa Bay Rays
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868376\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868376
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868359@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270320T073300Z
+DTEND:20270320T110300Z
+SUMMARY:Philadelphia Phillies: New York Yankees vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868359\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868359
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021176@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270320T190000Z
+DTEND:20270320T220000Z
+SUMMARY:Philadelphia Flyers: New York vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021176\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021176
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893567@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270320T190000Z
+DTEND:20270320T220000Z
+SUMMARY:Philadelphia Flyers: New York Islanders vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893567/flyers-islanders\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893567/flyers-islanders
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868353@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270321T073300Z
+DTEND:20270321T110300Z
+SUMMARY:Philadelphia Phillies: Toronto Blue Jays vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868353\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868353
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910784@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270321T233000Z
+DTEND:20270322T023000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs San Antonio Spurs
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910784/spurs-76ers\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910784/spurs-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-868350@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270322T073300Z
+DTEND:20270322T110300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Tampa Bay Rays
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/868350\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/868350
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021198@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270323T230000Z
+DTEND:20270324T020000Z
+SUMMARY:Philadelphia Flyers: New Jersey vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021198\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021198
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910797@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270324T010000Z
+DTEND:20270324T040000Z
+SUMMARY:Philadelphia 76ers: Utah Jazz vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910797/76ers-jazz\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910797/76ers-jazz
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910807@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270325T020000Z
+DTEND:20270325T050000Z
+SUMMARY:Philadelphia 76ers: Golden State Warriors vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910807/76ers-warriors\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910807/76ers-warriors
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852187@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270325T200500Z
+DTEND:20270325T233500Z
+SUMMARY:Philadelphia Phillies: Washington Nationals vs Philadelphia Phill
+ ies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852187\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852187
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021213@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270325T223000Z
+DTEND:20270326T013000Z
+SUMMARY:Philadelphia Flyers: Tampa Bay vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021213\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021213
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893604@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270325T223000Z
+DTEND:20270326T013000Z
+SUMMARY:Philadelphia Flyers: Tampa Bay Lightning vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893604/flyers-lightning\nKickoff and TV rights 
+ may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893604/flyers-lightning
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910823@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270327T020000Z
+DTEND:20270327T050000Z
+SUMMARY:Philadelphia 76ers: Portland Trail Blazers vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910823/76ers-trail-blazers\nKickoff and TV righ
+ ts may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910823/76ers-trail-blazers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852188@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270327T200500Z
+DTEND:20270327T233500Z
+SUMMARY:Philadelphia Phillies: Washington Nationals vs Philadelphia Phill
+ ies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852188\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852188
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021230@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270327T220000Z
+DTEND:20270328T010000Z
+SUMMARY:Philadelphia Flyers: Florida vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021230\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021230
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893621@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270327T220000Z
+DTEND:20270328T010000Z
+SUMMARY:Philadelphia Flyers: Florida Panthers vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893621/flyers-panthers\nKickoff and TV rights m
+ ay change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893621/flyers-panthers
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910839@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270329T020000Z
+DTEND:20270329T050000Z
+SUMMARY:Philadelphia 76ers: Denver Nuggets vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910839/76ers-nuggets\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910839/76ers-nuggets
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853311@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270329T073300Z
+DTEND:20270329T110300Z
+SUMMARY:Philadelphia Phillies: Miami Marlins vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853311\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853311
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021253@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270330T230000Z
+DTEND:20270331T020000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Pittsburgh
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021253\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021253
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853307@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270331T073300Z
+DTEND:20270331T110300Z
+SUMMARY:Philadelphia Phillies: Miami Marlins vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853307\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853307
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910856@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270331T230000Z
+DTEND:20270401T020000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Golden State Warriors
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910856/warriors-76ers\nKickoff and TV rights ma
+ y change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910856/warriors-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852912@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270401T190500Z
+DTEND:20270401T223500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Washington Nation
+ als
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852912\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852912
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021266@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270401T233000Z
+DTEND:20270402T023000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Washington
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021266\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021266
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910868@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270402T230000Z
+DTEND:20270403T020000Z
+SUMMARY:Philadelphia 76ers: Washington Wizards vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910868/76ers-wizards\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910868/76ers-wizards
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852903@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270403T170500Z
+DTEND:20270403T203500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Washington Nation
+ als
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852903\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852903
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021285@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270404T000000Z
+DTEND:20270404T030000Z
+SUMMARY:Philadelphia Flyers: Pittsburgh vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021285\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021285
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910882@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270404T170000Z
+DTEND:20270404T200000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Atlanta Hawks
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910882/hawks-76ers\nKickoff and TV rights may c
+ hange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910882/hawks-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021296@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270405T180000Z
+DTEND:20270405T210000Z
+SUMMARY:Philadelphia Flyers: Carolina vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021296\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021296
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893687@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270405T180000Z
+DTEND:20270405T210000Z
+SUMMARY:Philadelphia Flyers: Carolina Hurricanes vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893687/flyers-hurricanes\nKickoff and TV rights
+  may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893687/flyers-hurricanes
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852907@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270406T224000Z
+DTEND:20270407T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Detroit Tigers
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852907\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852907
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910899@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270406T233000Z
+DTEND:20270407T023000Z
+SUMMARY:Philadelphia 76ers: Toronto Raptors vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910899/76ers-raptors\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910899/76ers-raptors
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852910@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270408T170500Z
+DTEND:20270408T203500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Detroit Tigers
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852910\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852910
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910918@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270408T230000Z
+DTEND:20270409T020000Z
+SUMMARY:Philadelphia 76ers: Miami Heat vs Philadelphia 76ers
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910918/76ers-heat\nKickoff and TV rights may ch
+ ange. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910918/76ers-heat
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021319@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270408T233000Z
+DTEND:20270409T023000Z
+SUMMARY:Philadelphia Flyers: Columbus vs Philadelphia
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021319\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021319
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-ESPN-401893710@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270408T233000Z
+DTEND:20270409T023000Z
+SUMMARY:Philadelphia Flyers: Columbus Blue Jackets vs Philadelphia Flyers
+DESCRIPTION:Competition: nhl\nSource: ESPN\nSource URL: https://www.espn.
+ com/nhl/game/_/gameId/401893710/flyers-blue-jackets\nKickoff and TV righ
+ ts may change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nhl/game/_/gameId/401893710/flyers-blue-jackets
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853226@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270409T083300Z
+DTEND:20270409T120300Z
+SUMMARY:Philadelphia Phillies: Milwaukee Brewers vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853226\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853226
+END:VEVENT
+BEGIN:VEVENT
+UID:FLYERS-NHL-2026021329@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270410T163000Z
+DTEND:20270410T193000Z
+SUMMARY:Philadelphia Flyers: Philadelphia vs Washington
+DESCRIPTION:Competition: NHL\nSource: NHL\nSource URL: https://www.nhl.co
+ m/gamecenter/2026021329\nKickoff and TV rights may change. Viewer provid
+ ers are not reliably known far in advance.
+URL:https://www.nhl.com/gamecenter/2026021329
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853234@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270411T083300Z
+DTEND:20270411T120300Z
+SUMMARY:Philadelphia Phillies: Milwaukee Brewers vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853234\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853234
+END:VEVENT
+BEGIN:VEVENT
+UID:SIXERS-ESPN-401910942@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Philadelphia 76ers: Philadelphia 76ers vs Charlotte Hornets
+DESCRIPTION:Competition: nba\nSource: ESPN\nSource URL: https://www.espn.
+ com/nba/game/_/gameId/401910942/hornets-76ers\nKickoff and TV rights may
+  change. Viewer providers are not reliably known far in advance.
+URL:https://www.espn.com/nba/game/_/gameId/401910942/hornets-76ers
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854114@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270413T083300Z
+DTEND:20270413T120300Z
+SUMMARY:Philadelphia Phillies: Chicago Cubs vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854114\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854114
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854119@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270415T083300Z
+DTEND:20270415T120300Z
+SUMMARY:Philadelphia Phillies: Chicago Cubs vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854119\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854119
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852908@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270416T224000Z
+DTEND:20270417T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Milwaukee Brewers
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852908\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852908
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852894@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270418T173500Z
+DTEND:20270418T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Milwaukee Brewers
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852894\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852894
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852897@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270420T224000Z
+DTEND:20270421T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Los Angeles Dodge
+ rs
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852897\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852897
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852891@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270422T220500Z
+DTEND:20270423T013500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Los Angeles Dodge
+ rs
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852891\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852891
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852893@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270423T224000Z
+DTEND:20270424T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Arizona Diamondba
+ cks
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852893\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852893
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852888@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270425T173500Z
+DTEND:20270425T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Arizona Diamondba
+ cks
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852888\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852888
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852737@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270428T014000Z
+DTEND:20270428T051000Z
+SUMMARY:Philadelphia Phillies: San Diego Padres vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852737\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852737
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852738@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270429T201000Z
+DTEND:20270429T234000Z
+SUMMARY:Philadelphia Phillies: San Diego Padres vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852738\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852738
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852652@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270430T103300Z
+DTEND:20270430T140300Z
+SUMMARY:Philadelphia Phillies: San Francisco Giants vs Philadelphia Phill
+ ies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852652\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852652
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852658@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270502T103300Z
+DTEND:20270502T140300Z
+SUMMARY:Philadelphia Phillies: San Francisco Giants vs Philadelphia Phill
+ ies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852658\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852658
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852898@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270504T224000Z
+DTEND:20270505T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs New York Mets
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852898\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852898
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852900@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270506T220500Z
+DTEND:20270507T013500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs New York Mets
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852900\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852900
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852892@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270507T224000Z
+DTEND:20270508T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Atlanta Braves
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852892\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852892
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852889@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270509T173500Z
+DTEND:20270509T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Atlanta Braves
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852889\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852889
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853045@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270511T073300Z
+DTEND:20270511T110300Z
+SUMMARY:Philadelphia Phillies: New York Mets vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853045\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853045
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853041@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270513T073300Z
+DTEND:20270513T110300Z
+SUMMARY:Philadelphia Phillies: New York Mets vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853041\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853041
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852966@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270515T073300Z
+DTEND:20270515T110300Z
+SUMMARY:Philadelphia Phillies: New York Yankees vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852966\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852966
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852886@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270517T224000Z
+DTEND:20270518T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Miami Marlins
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852886\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852886
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852879@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270519T173500Z
+DTEND:20270519T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Miami Marlins
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852879\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852879
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852872@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270521T224000Z
+DTEND:20270522T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Los Angeles Angel
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852872\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852872
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852882@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270523T173500Z
+DTEND:20270523T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Los Angeles Angel
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852882\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852882
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852409@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270525T073300Z
+DTEND:20270525T110300Z
+SUMMARY:Philadelphia Phillies: Tampa Bay Rays vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852409\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852409
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852391@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270527T073300Z
+DTEND:20270527T110300Z
+SUMMARY:Philadelphia Phillies: Tampa Bay Rays vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852391\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852391
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852309@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270528T083300Z
+DTEND:20270528T120300Z
+SUMMARY:Philadelphia Phillies: Texas Rangers vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852309\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852309
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852306@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270530T083300Z
+DTEND:20270530T120300Z
+SUMMARY:Philadelphia Phillies: Texas Rangers vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852306\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852306
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852874@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270531T220500Z
+DTEND:20270601T013500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Toronto Blue Jays
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852874\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852874
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852885@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270602T224000Z
+DTEND:20270603T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Toronto Blue Jays
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852885\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852885
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852881@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270604T224000Z
+DTEND:20270605T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Baltimore Orioles
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852881\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852881
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852878@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270606T173500Z
+DTEND:20270606T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Baltimore Orioles
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852878\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852878
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854011@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270607T083300Z
+DTEND:20270607T120300Z
+SUMMARY:Philadelphia Phillies: Chicago White Sox vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854011\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854011
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854019@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270609T083300Z
+DTEND:20270609T120300Z
+SUMMARY:Philadelphia Phillies: Chicago White Sox vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854019\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854019
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852228@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270611T073300Z
+DTEND:20270611T110300Z
+SUMMARY:Philadelphia Phillies: Toronto Blue Jays vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852228\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852228
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852220@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270613T073300Z
+DTEND:20270613T110300Z
+SUMMARY:Philadelphia Phillies: Toronto Blue Jays vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852220\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852220
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852880@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270614T224000Z
+DTEND:20270615T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Minnesota Twins
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852880\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852880
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852884@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270616T220500Z
+DTEND:20270617T013500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Minnesota Twins
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852884\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852884
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852858@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270618T224000Z
+DTEND:20270619T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs San Francisco Gia
+ nts
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852858\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852858
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852866@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270620T173500Z
+DTEND:20270620T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs San Francisco Gia
+ nts
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852866\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852866
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854322@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270621T231500Z
+DTEND:20270622T024500Z
+SUMMARY:Philadelphia Phillies: Atlanta Braves vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854322\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854322
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854321@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270623T231500Z
+DTEND:20270624T024500Z
+SUMMARY:Philadelphia Phillies: Atlanta Braves vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854321\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854321
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852792@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270625T073300Z
+DTEND:20270625T110300Z
+SUMMARY:Philadelphia Phillies: Pittsburgh Pirates vs Philadelphia Phillie
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852792\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852792
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852779@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270627T073300Z
+DTEND:20270627T110300Z
+SUMMARY:Philadelphia Phillies: Pittsburgh Pirates vs Philadelphia Phillie
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852779\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852779
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852863@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270629T224000Z
+DTEND:20270630T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Colorado Rockies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852863\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852863
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852860@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270701T163500Z
+DTEND:20270701T200500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Colorado Rockies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852860\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852860
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852859@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270702T224000Z
+DTEND:20270703T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Seattle Mariners
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852859\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852859
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852869@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270704T173500Z
+DTEND:20270704T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Seattle Mariners
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852869\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852869
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853839@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270705T073300Z
+DTEND:20270705T110300Z
+SUMMARY:Philadelphia Phillies: Cleveland Guardians vs Philadelphia Philli
+ es
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853839\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853839
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853840@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270707T073300Z
+DTEND:20270707T110300Z
+SUMMARY:Philadelphia Phillies: Cleveland Guardians vs Philadelphia Philli
+ es
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853840\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853840
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852126@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270709T230500Z
+DTEND:20270710T023500Z
+SUMMARY:Philadelphia Phillies: Washington Nationals vs Philadelphia Phill
+ ies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852126\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852126
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852129@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270711T173500Z
+DTEND:20270711T210500Z
+SUMMARY:Philadelphia Phillies: Washington Nationals vs Philadelphia Phill
+ ies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852129\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852129
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852870@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270716T224000Z
+DTEND:20270717T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Pittsburgh Pirate
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852870\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852870
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852864@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270718T173500Z
+DTEND:20270718T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Pittsburgh Pirate
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852864\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852864
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854307@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270719T231500Z
+DTEND:20270720T024500Z
+SUMMARY:Philadelphia Phillies: Atlanta Braves vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854307\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854307
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854309@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270721T161500Z
+DTEND:20270721T194500Z
+SUMMARY:Philadelphia Phillies: Atlanta Braves vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854309\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854309
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853025@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270722T073300Z
+DTEND:20270722T110300Z
+SUMMARY:Philadelphia Phillies: New York Mets vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853025\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853025
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853014@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270724T073300Z
+DTEND:20270724T110300Z
+SUMMARY:Philadelphia Phillies: New York Mets vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853014\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853014
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852862@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270727T224000Z
+DTEND:20270728T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Boston Red Sox
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852862\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852862
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852846@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270729T163500Z
+DTEND:20270729T200500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Boston Red Sox
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852846\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852846
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853251@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270730T073300Z
+DTEND:20270730T110300Z
+SUMMARY:Philadelphia Phillies: Miami Marlins vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853251\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853251
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853256@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270801T073300Z
+DTEND:20270801T110300Z
+SUMMARY:Philadelphia Phillies: Miami Marlins vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853256\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853256
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852845@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270802T224000Z
+DTEND:20270803T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs St. Louis Cardina
+ ls
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852845\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852845
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852852@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270804T220500Z
+DTEND:20270805T013500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs St. Louis Cardina
+ ls
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852852\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852852
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852849@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270806T224000Z
+DTEND:20270807T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Kansas City Royal
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852849\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852849
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852854@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270808T173500Z
+DTEND:20270808T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Kansas City Royal
+ s
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852854\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852854
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853744@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270809T093300Z
+DTEND:20270809T130300Z
+SUMMARY:Philadelphia Phillies: Colorado Rockies vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853744\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853744
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853742@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270811T093300Z
+DTEND:20270811T130300Z
+SUMMARY:Philadelphia Phillies: Colorado Rockies vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853742\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853742
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853333@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270813T103300Z
+DTEND:20270813T140300Z
+SUMMARY:Philadelphia Phillies: Los Angeles Dodgers vs Philadelphia Philli
+ es
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853333\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853333
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853341@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270815T103300Z
+DTEND:20270815T140300Z
+SUMMARY:Philadelphia Phillies: Los Angeles Dodgers vs Philadelphia Philli
+ es
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853341\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853341
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852857@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270817T224000Z
+DTEND:20270818T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs San Diego Padres
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852857\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852857
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852850@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270819T163500Z
+DTEND:20270819T200500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs San Diego Padres
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852850\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852850
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852855@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270820T224000Z
+DTEND:20270821T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Cincinnati Reds
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852855\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852855
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852848@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270822T173500Z
+DTEND:20270822T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Cincinnati Reds
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852848\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852848
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854388@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270824T103300Z
+DTEND:20270824T140300Z
+SUMMARY:Philadelphia Phillies: Athletics vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854388\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854388
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854383@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270826T103300Z
+DTEND:20270826T140300Z
+SUMMARY:Philadelphia Phillies: Athletics vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854383\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854383
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854465@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270827T103300Z
+DTEND:20270827T140300Z
+SUMMARY:Philadelphia Phillies: Arizona Diamondbacks vs Philadelphia Phill
+ ies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854465\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854465
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-854462@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270829T103300Z
+DTEND:20270829T140300Z
+SUMMARY:Philadelphia Phillies: Arizona Diamondbacks vs Philadelphia Phill
+ ies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/854462\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/854462
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852844@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270831T224000Z
+DTEND:20270901T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Atlanta Braves
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852844\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852844
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852830@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270902T224000Z
+DTEND:20270903T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Atlanta Braves
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852830\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852830
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852831@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270903T224000Z
+DTEND:20270904T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs New York Mets
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852831\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852831
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852839@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270905T173500Z
+DTEND:20270905T210500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs New York Mets
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852839\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852839
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852840@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270906T073300Z
+DTEND:20270906T110300Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Miami Marlins
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852840\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852840
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852842@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270907T224000Z
+DTEND:20270908T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Miami Marlins
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852842\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852842
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852837@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270909T170500Z
+DTEND:20270909T203500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Miami Marlins
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852837\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852837
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852440@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270910T083300Z
+DTEND:20270910T120300Z
+SUMMARY:Philadelphia Phillies: St. Louis Cardinals vs Philadelphia Philli
+ es
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852440\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852440
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852427@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270912T083300Z
+DTEND:20270912T120300Z
+SUMMARY:Philadelphia Phillies: St. Louis Cardinals vs Philadelphia Philli
+ es
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852427\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852427
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853877@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270914T073300Z
+DTEND:20270914T110300Z
+SUMMARY:Philadelphia Phillies: Cincinnati Reds vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853877\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853877
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853889@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270916T073300Z
+DTEND:20270916T110300Z
+SUMMARY:Philadelphia Phillies: Cincinnati Reds vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853889\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853889
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853567@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270917T083300Z
+DTEND:20270917T120300Z
+SUMMARY:Philadelphia Phillies: Houston Astros vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853567\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853567
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-853561@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270919T083300Z
+DTEND:20270919T120300Z
+SUMMARY:Philadelphia Phillies: Houston Astros vs Philadelphia Phillies
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/853561\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/853561
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852835@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270921T224000Z
+DTEND:20270922T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Chicago Cubs
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852835\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852835
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852843@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270923T220500Z
+DTEND:20270924T013500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Chicago Cubs
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852843\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852843
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852834@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270924T224000Z
+DTEND:20270925T021000Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Washington Nation
+ als
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852834\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852834
+END:VEVENT
+BEGIN:VEVENT
+UID:PHILLIES-MLB-852829@favorite-sports
+DTSTAMP:20261025T195826Z
+DTSTART:20270926T190500Z
+DTEND:20270926T223500Z
+SUMMARY:Philadelphia Phillies: Philadelphia Phillies vs Washington Nation
+ als
+DESCRIPTION:Competition: MLB\nSource: MLB\nSource URL: https://www.mlb.co
+ m/gameday/852829\nKickoff and TV rights may change. Viewer providers are
+  not reliably known far in advance.
+URL:https://www.mlb.com/gameday/852829
+END:VEVENT
+END:VCALENDAR

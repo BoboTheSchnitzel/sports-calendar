@@ -1,0 +1,57 @@
+{
+  "generated": "2026-10-25T19:58:26.889215+00:00",
+  "count": {
+    "PFC-M": 1,
+    "PFC-W": 0,
+    "LFC": 1,
+    "UNION": 1,
+    "FRA-M": 0,
+    "FRA-W": 0,
+    "USA-M": 0,
+    "USA-W": 0,
+    "EAGLES": 11,
+    "SIXERS": 78,
+    "FLYERS": 111,
+    "PHILLIES": 135
+  },
+  "total": 338,
+  "conflicts": [
+    {
+      "team": "FLYERS",
+      "official": {
+        "source": "NHL",
+        "team": "FLYERS",
+        "id": "2026020492",
+        "start": "2026-12-09T00:00:00+00:00",
+        "home": "Winnipeg",
+        "away": "Philadelphia",
+        "competition": "NHL",
+        "url": "https://www.nhl.com/gamecenter/2026020492",
+        "status": "scheduled"
+      },
+      "espn": {
+        "source": "ESPN",
+        "team": "FLYERS",
+        "id": "401892887",
+        "start": "2026-12-09T01:00:00+00:00",
+        "home": "Winnipeg Jets",
+        "away": "Philadelphia Flyers",
+        "competition": "nhl",
+        "url": "https://www.espn.com/nhl/game/_/gameId/401892887/flyers-jets",
+        "status": "scheduled"
+      },
+      "issue": "Kickoff difference >15 min; official schedule used"
+    }
+  ],
+  "errors": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.fem/teams?limit=1000: HTTP Error 404: Not Found",
+    "ESPN roster lookup unresolved: PFC-W in fra.fem. No match was guessed.",
+    "ESPN roster lookup unresolved: LFC in eng.fa. No match was guessed.",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world.w/teams?limit=1000: HTTP Error 404: Not Found",
+    "ESPN roster lookup unresolved: FRA-W in fifa.world.w. No match was guessed.",
+    "ESPN roster lookup unresolved: USA-W in fifa.world.w. No match was guessed.",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/concacaf.w.championship/teams?limit=1000: HTTP Error 404: Not Found",
+    "ESPN roster lookup unresolved: USA-W in concacaf.w.championship. No match was guessed."
+  ],
+  "explanation": "Providers are not exhaustive. Missing on a provider does not imply cancelled. Club calendars need validated direct ICS URLs in feeds.json."
+}
