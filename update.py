@@ -83,7 +83,7 @@ def parse_espn(code, sport, league, raw):
         sides=c.get('competitors',[])
         home=next((i.get('team',{}).get('displayName') for i in sides if i.get('homeAway')=='home'),None)
         away=next((i.get('team',{}).get('displayName') for i in sides if i.get('homeAway')=='away'),None)
-        st=x.get('status',{}).get('type',{}).get('name','scheduled')
+        st=((x.get('status') or c.get('status') or {}).get('type') or {}).get('name','scheduled')
         obj=event('ESPN',code,x.get('id'),x.get('date') or c.get('date'),home,away,league,x.get('links',[{}])[0].get('href',''),st)
         if obj:
             venue=c.get('venue') or x.get('venue') or {}
@@ -96,7 +96,7 @@ def parse_espn(code, sport, league, raw):
                 if which in ('home','away') and val is not None:
                     try: score_by_side[which]=int(float(val))
                     except (ValueError,TypeError): pass
-            if st.lower() in ('status_final','final','status_full_time','full time') and len(score_by_side)==2:
+            if ((st.lower() in ('status_final','final','status_full_time','full time')) or ((x.get('status') or c.get('status') or {}).get('type') or {}).get('completed') is True) and len(score_by_side)==2:
                 obj['scores']=score_by_side
             result.append(obj)
     return result
@@ -149,10 +149,15 @@ def nhl_schedule():
             def name(team):
                 n=team.get('name',{})
                 if isinstance(n,dict): n=n.get('default','')
-                if n: return n
+                if n:
+                    place_raw=team.get('placeName',{})
+                    city=place_raw.get('default','') if isinstance(place_raw,dict) else str(place_raw or '')
+                    if city and city.casefold() not in n.casefold():
+                        return NHL_NAMES.get(city,city+' '+n)
+                    return n
                 place=team.get('placeName',{})
                 if isinstance(place,dict): place=place.get('default','')
-                return place or team.get('abbrev','')
+                return NHL_NAMES.get(place,place) or team.get('abbrev','')
             item=event('NHL','FLYERS',game.get('id'),game.get('startTimeUTC'),name(game.get('homeTeam',{})),name(game.get('awayTeam',{})),'NHL',f"https://www.nhl.com/gamecenter/{game.get('id')}")
             if item:
                 place=game.get('venue',{})
@@ -167,29 +172,60 @@ def nhl_schedule():
 def ical_unfold(s): return re.sub(r'\r?\n[ \t]', '', s)
 
 def parse_external_ics(code,url):
+    """Ingest a club ICS only if its teams, home/away and kickoff are unambiguous.
+
+    A club-supplied calendar download is not necessarily a live subscription.
+    Ambiguous rows are ignored rather than polluting the combined calendar.
+    """
+    from zoneinfo import ZoneInfo
     try:
         with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':UA['User-Agent']}),timeout=25) as r:
             s=ical_unfold(r.read().decode('utf-8-sig'))
+        if 'BEGIN:VCALENDAR' not in s:
+            raise ValueError('not an iCalendar document')
     except Exception as ex:
-        ERRORS.append(f'Official team feed failed {code}: {str(ex)[:100]}')
+        ERRORS.append(f'Official team feed failed {code}: {str(ex)[:130]}')
         return []
     output=[]
-    for b in s.split('BEGIN:VEVENT')[1:]:
-        lines=b.split('END:VEVENT')[0].splitlines()
-        fields={}
-        for ln in lines:
-            if ':' in ln:
-                k,v=ln.split(':',1); fields[k.split(';')[0]]=v
-        val=fields.get('DTSTART','')
-        if re.fullmatch(r'\d{8}T\d{6}Z',val): start=dt.datetime.strptime(val,'%Y%m%dT%H%M%SZ').replace(tzinfo=dt.timezone.utc)
-        elif re.fullmatch(r'\d{8}T\d{6}',val):
-            # Without a TZID, local time is ambiguous: do not fabricate UTC conversion.
-            continue
-        else: continue
-        title=fields.get('SUMMARY','').replace('\\,',',').replace('\\n',' ')
-        # External ICS title may have no clear home/away distinction.
-        obj=event('Official feed',code,fields.get('UID',title),start,title,'(opponent in title)', 'Official club calendar',url)
-        if obj: output.append(obj)
+    for block in s.split('BEGIN:VEVENT')[1:]:
+        lines=block.split('END:VEVENT')[0].splitlines()
+        fields={}; tzid=None
+        for line in lines:
+            if ':' not in line: continue
+            k,v=line.split(':',1)
+            fields[k.split(';')[0].upper()]=v
+            if k.upper().startswith('DTSTART;'):
+                found=re.search(r'TZID=([^;:]+)',k,re.I)
+                if found: tzid=found.group(1)
+        val=fields.get('DTSTART','').strip()
+        try:
+            if re.fullmatch(r'\d{8}T\d{6}Z',val):
+                start=dt.datetime.strptime(val,'%Y%m%dT%H%M%SZ').replace(tzinfo=dt.timezone.utc)
+            elif re.fullmatch(r'\d{8}T\d{6}',val) and tzid:
+                start=dt.datetime.strptime(val,'%Y%m%dT%H%M%S').replace(tzinfo=ZoneInfo(tzid)).astimezone(dt.timezone.utc)
+            else: continue
+        except (ValueError,KeyError): continue
+        title=fields.get('SUMMARY','').replace('\\,',',').replace('\\n',' ').strip()
+        # Parse only a genuinely two-sided fixture. Do not create fake
+        # opponents from unstructured titles or team-only reminders.
+        pair=re.split(r'\s+(?:vs\.?|v\.?|versus|@|at)\s+',title, maxsplit=1,flags=re.I)
+        if len(pair)!=2: continue
+        left,right=[re.sub(r'\s+\([^)]*\)$','',v).strip() for v in pair]
+        if not left or not right: continue
+        away_marker=bool(re.search(r'\s+(?:@|at)\s+',title,re.I))
+        home,away=(right,left) if away_marker else (left,right)
+        aliases=TARGETS[code][2]
+        is_member=lambda n:any(equal_name(n,[alias]) or (code=='UNION' and equal_name(n,['Union','Philadelphia'])) for alias in aliases)
+        if not (is_member(home) or is_member(away)): continue
+        # Official Union feed is a fixture corroboration only; never create
+        # synthetic results from a score-like string in the title.
+        obj=event('Official feed',code,fields.get('UID') or title+'|'+val,start,home,away,'Official club calendar',url)
+        if obj:
+            loc=fields.get('LOCATION','').replace('\\,',',').strip()
+            obj['venue']=loc or None
+            output.append(obj)
+    if not output:
+        ERRORS.append(f'Official feed {code}: ICS downloaded but no unambiguous team fixtures parsed; ESPN/seed fixtures preserved')
     return output
 
 
@@ -215,38 +251,54 @@ def match(a,b):
         # Official feed's title must actually contain both opponents; don't merge without evidence.
         text=(a if a['source']=='Official feed' else b)['home'].casefold()
         structured=b if a['source']=='Official feed' else a
-        return norm_name(structured['home']) in norm_name(text) and norm_name(structured['away']) in norm_name(text)
-    return similarity(a['home'],b['home'])>.72 and similarity(a['away'],b['away'])>.72
+        return (team_names_equal(a['home'],b['home'],a['team']) and team_names_equal(a['away'],b['away'],a['team']))
+    return team_names_equal(a['home'],b['home'],a['team']) and team_names_equal(a['away'],b['away'],a['team'])
 
-# Map source naming variants into readable short names.
-NAMES={'PHILADELPHIA EAGLES':'Eagles','PHILADELPHIA FLYERS':'Flyers','PHILADELPHIA 76ERS':'76ers',
-       'PHILADELPHIA PHILLIES':'Phillies','PHILADELPHIA UNION':'Union','PARIS FC':'Paris FC',
-       'PARIS FC WOMEN':'Paris FC (W)','PARIS FC FÉMININES':'Paris FC (W)','LIVERPOOL':'Liverpool FC','LIVERPOOL FC':'Liverpool FC',
+def team_names_equal(a,b,code):
+    # Canonical full names let ESPN and league sources merge the same fixture.
+    a,b=short_name(a,code),short_name(b,code)
+    if norm_name(a)==norm_name(b):return True
+    if code=='FLYERS':
+        a=NHL_NAMES.get(a,a); b=NHL_NAMES.get(b,b)
+        return norm_name(a)==norm_name(b)
+    # Do not merge distinct opponents on fuzzy similarity alone.
+    return False
+
+# Full city + franchise names for North American teams. The followed team comes
+# first in every calendar title, whether at home or away.
+SELF={'PFC-M':'Paris FC (M)','PFC-W':'Paris FC (W)','LFC':'Liverpool FC',
+      'UNION':'Philadelphia Union','FRA-M':'France','FRA-W':'France',
+      'USA-M':'USA','USA-W':'USA','EAGLES':'Philadelphia Eagles',
+      'SIXERS':'Philadelphia 76ers','FLYERS':'Philadelphia Flyers',
+      'PHILLIES':'Philadelphia Phillies'}
+NAMES={'PARIS FC':'Paris FC','PARIS FOOTBALL CLUB':'Paris FC',
+       'PARIS FC WOMEN':'Paris FC (W)','PARIS FC FÉMININES':'Paris FC (W)',
+       'LIVERPOOL':'Liverpool FC','LIVERPOOL FC':'Liverpool FC',
        'FRANCE':'France','UNITED STATES':'USA','USA':'USA'}
-SELF={'PFC-M':'Paris FC (M)','PFC-W':'Paris FC (W)','LFC':'Liverpool FC','UNION':'Union',
-      'FRA-M':'France','FRA-W':'France','USA-M':'USA','USA-W':'USA',
-      'EAGLES':'Eagles','SIXERS':'76ers','FLYERS':'Flyers','PHILLIES':'Phillies'}
+# NHL API may provide only the city; resolve safely with known names.
+NHL_NAMES={
+ 'Anaheim':'Anaheim Ducks','Boston':'Boston Bruins','Buffalo':'Buffalo Sabres',
+ 'Calgary':'Calgary Flames','Carolina':'Carolina Hurricanes','Chicago':'Chicago Blackhawks',
+ 'Colorado':'Colorado Avalanche','Columbus':'Columbus Blue Jackets','Dallas':'Dallas Stars',
+ 'Detroit':'Detroit Red Wings','Edmonton':'Edmonton Oilers','Florida':'Florida Panthers',
+ 'Los Angeles':'Los Angeles Kings','Minnesota':'Minnesota Wild','Montréal':'Montréal Canadiens',
+ 'Montreal':'Montréal Canadiens','Nashville':'Nashville Predators','New Jersey':'New Jersey Devils',
+ 'New York Islanders':'New York Islanders','New York Rangers':'New York Rangers',
+ 'Ottawa':'Ottawa Senators','Philadelphia':'Philadelphia Flyers','Pittsburgh':'Pittsburgh Penguins',
+ 'San Jose':'San Jose Sharks','Seattle':'Seattle Kraken','St. Louis':'St. Louis Blues',
+ 'Tampa Bay':'Tampa Bay Lightning','Toronto':'Toronto Maple Leafs','Utah':'Utah Mammoth',
+ 'Vancouver':'Vancouver Canucks','Vegas':'Vegas Golden Knights','Washington':'Washington Capitals',
+ 'Winnipeg':'Winnipeg Jets'}
 
 def short_name(name,code=None):
-    k=str(name).upper().strip()
+    name=str(name).strip()
+    k=name.upper()
     if k in ('PARIS FC','PARIS FOOTBALL CLUB') and code in ('PFC-M','PFC-W'):
         return SELF[code]
     if k in NAMES:return NAMES[k]
-    if code in ('EAGLES','SIXERS','FLYERS','PHILLIES'):
-        # Shorten North American opponent franchises without changing source IDs.
-        cities=('Philadelphia','Dallas','New York','Los Angeles','San Francisco','San Diego',
-                'Kansas City','New England','Tampa Bay','Green Bay','New Orleans',
-                'Las Vegas','Arizona','Washington','Minnesota','Chicago','Detroit',
-                'Seattle','Atlanta','Carolina','Cleveland','Pittsburgh','Baltimore',
-                'Houston','Indianapolis','Jacksonville','Tennessee','Buffalo','Miami',
-                'Denver','Cincinnati','Brooklyn','Golden State','Oklahoma City',
-                'Portland','Sacramento','Utah','Memphis','Orlando','Toronto',
-                'Milwaukee','Boston','Phoenix','Colorado','St. Louis','St Louis',
-                'Columbus','Edmonton','Calgary','Vancouver','Anaheim','Winnipeg',
-                'Montreal','Ottawa','Florida','Nashville','New Jersey','Oakland')
-        for city in sorted(cities,key=len,reverse=True):
-            if str(name).startswith(city+' '): return str(name)[len(city)+1:]
-    return str(name).replace(' Football Club','').replace(' FC','')
+    if code=='FLYERS':return NHL_NAMES.get(name,name)
+    if code in ('EAGLES','SIXERS','PHILLIES','UNION'):return name
+    return name.replace(' Football Club','')
 
 # Match-specific verified broadcaster database; no extrapolation from league TV rights.
 # Each entry must identify country, actual channel/platform, and a public URL
@@ -323,14 +375,16 @@ def to_ics(items):
         # Specially labelled Paris FC teams must match the right male/female calendar.
         home_is_me=similarity(home,mine)>.85
         away_is_me=similarity(away,mine)>.85
-        if home_is_me and not away_is_me: title=f'{mine} vs {away}'
-        elif away_is_me and not home_is_me: title=f'{mine} @ {home}'
-        else: title=f'{away} @ {home}'  # safe when team side cannot be resolved
-        if e.get('scores') and e['scores'].get('home') is not None and e['scores'].get('away') is not None:
-            score=e['scores']
-            if home_is_me: title+=f" ({score['home']}-{score['away']})"
-            elif away_is_me: title+=f" ({score['away']}-{score['home']})"
-            else: title+=f" ({score['away']}-{score['home']})"
+        score=e.get('scores') or {}
+        has_score=score.get('home') is not None and score.get('away') is not None
+        if home_is_me and not away_is_me:
+            first=f'{mine} {score["home"]}-{score["away"]}' if has_score else mine
+            title=f'{first} {away}' if has_score else f'{first} vs {away}'
+        elif away_is_me and not home_is_me:
+            first=f'{mine} {score["away"]}-{score["home"]}' if has_score else mine
+            title=f'{first} {home}' if has_score else f'{first} @ {home}'
+        else:
+            title=f'{away} @ {home}'  # only when a provider has incomplete team identity
         if 'cancel' in str(e.get('status','')).lower() or 'postpone' in str(e.get('status','')).lower():
             title='[POSTPONED/CANCELLED] '+title
         desc=viewing(e)
@@ -372,6 +426,9 @@ def main():
         seen.add(k)
         if any(match(e,x) for x in unique):continue
         unique.append(e)
+    # Fill scores only from verified completed feeds; preserve those already
+    # published when an upstream provider temporarily stops returning a result.
+    # Existing fixture JSON is also used to maintain Apple Calendar UIDs.
     # Protect calendar against global upstream outage.
     previous=DOCS/'fixtures.json'
     old=json.loads(previous.read_text()) if previous.exists() else []
@@ -381,6 +438,9 @@ def main():
     for team_events in by_team.values():
         for e in team_events:
             same=[o for o in old if match(e,o)]
+            if same and not e.get('scores'):
+                scored=next((o for o in same if o.get('scores')),None)
+                if scored:e['scores']=scored['scores']
             if same: e['uid']=same[0].get('uid') or (re.sub('[^A-Za-z0-9_-]','',same[0]['team'])+'-'+re.sub('[^A-Za-z0-9_-]','',same[0]['source'])+'-'+re.sub('[^A-Za-z0-9_-]','',str(same[0]['id']))+'@favorite-sports')
     for e in old:
         if not by_team[e['team']] and iso(e['start']) and iso(e['start'])>TODAY:
