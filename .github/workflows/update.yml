@@ -1,0 +1,40 @@
+name: Refresh sports calendar
+on:
+  schedule:
+    - cron: '23 5 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: sports-calendar-publish
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch and reconcile schedules
+        run: python update.py
+      - name: Create simple calendar page
+        run: |
+          echo '<!doctype html><html lang="en"><meta charset="utf-8"><title>Sports calendar</title><body><h1>Sports calendar</h1><p><a href="sports.ics">Subscribe to the calendar</a></p><p><a href="audit.json">View fixture audit</a></p></body></html>' > docs/index.html
+      - name: Save updated feed and audit to repository
+        run: |
+          git config user.name 'sports-calendar-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/sports.ics docs/fixtures.json docs/audit.json docs/index.html
+          git diff --cached --quiet || (git commit -m 'Update sports fixtures' && git push)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - name: Publish GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
