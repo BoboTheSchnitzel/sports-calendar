@@ -4711,8 +4711,11 @@
     "away": "Detroit Pistons",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909866/pistons-76ers",
-    "status": "STATUS_SCHEDULED",
-    "scores": null,
+    "status": "STATUS_FINAL",
+    "scores": {
+      "home": 93,
+      "away": 106
+    },
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401909866@favorite-sports"
   },
