@@ -2,23 +2,6 @@
   {
     "source": "NHL",
     "team": "FLYERS",
-    "id": "2026020040",
-    "start": "2026-10-05T23:00:00+00:00",
-    "home": "Tampa Bay Lightning",
-    "away": "Philadelphia Flyers",
-    "competition": "NHL",
-    "url": "https://www.nhl.com/gamecenter/2026020040",
-    "status": "scheduled",
-    "scores": {
-      "home": 4,
-      "away": 1
-    },
-    "venue": "Benchmark International Arena",
-    "uid": "FLYERS-NHL-2026020040@favorite-sports"
-  },
-  {
-    "source": "NHL",
-    "team": "FLYERS",
     "id": "2026020059",
     "start": "2026-10-08T23:00:00+00:00",
     "home": "Ottawa Senators",
@@ -2245,7 +2228,7 @@
     "source": "MLB",
     "team": "PHILLIES",
     "id": "852969",
-    "start": "2027-05-14T07:33:00+00:00",
+    "start": "2027-05-14T23:05:00+00:00",
     "home": "New York Yankees",
     "away": "Philadelphia Phillies",
     "competition": "MLB",
@@ -2259,7 +2242,7 @@
     "source": "MLB",
     "team": "PHILLIES",
     "id": "852970",
-    "start": "2027-05-16T07:33:00+00:00",
+    "start": "2027-05-16T17:35:00+00:00",
     "home": "New York Yankees",
     "away": "Philadelphia Phillies",
     "competition": "MLB",
@@ -3321,49 +3304,6 @@
   },
   {
     "source": "ESPN",
-    "team": "FRA-M",
-    "id": "401861129",
-    "start": "2026-10-05T18:45:00+00:00",
-    "home": "France",
-    "away": "Belgium",
-    "competition": "uefa.nations",
-    "url": "https://www.espn.com/soccer/match/_/gameId/401861129/belgium-france",
-    "status": "STATUS_FULL_TIME",
-    "scores": {
-      "home": 4,
-      "away": 1
-    },
-    "venue": "Stade de France",
-    "uid": "FRA-M-ESPN-401861129@favorite-sports"
-  },
-  {
-    "source": "Seed",
-    "team": "FRA-M",
-    "id": "9c66d385d9489b84",
-    "start": "2026-11-12T19:45:00+00:00",
-    "home": "Italy",
-    "away": "France",
-    "competition": "Season fixture (initial checked snapshot)",
-    "url": "",
-    "status": "scheduled",
-    "scores": null,
-    "uid": "FRA-M-Seed-9c66d385d9489b84@favorite-sports"
-  },
-  {
-    "source": "Seed",
-    "team": "FRA-M",
-    "id": "436f793b8f85552e",
-    "start": "2026-11-15T19:45:00+00:00",
-    "home": "France",
-    "away": "Turkey",
-    "competition": "Season fixture (initial checked snapshot)",
-    "url": "",
-    "status": "scheduled",
-    "scores": null,
-    "uid": "FRA-M-Seed-436f793b8f85552e@favorite-sports"
-  },
-  {
-    "source": "ESPN",
     "team": "USA-M",
     "id": "401905188",
     "start": "2026-10-07T00:00:00+00:00",
@@ -3953,8 +3893,11 @@
     "away": "Dallas Cowboys",
     "competition": "nfl",
     "url": "https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles",
-    "status": "STATUS_SCHEDULED",
-    "scores": null,
+    "status": "STATUS_FINAL",
+    "scores": {
+      "home": 21,
+      "away": 38
+    },
     "venue": "Lincoln Financial Field",
     "uid": "EAGLES-ESPN-401873009@favorite-sports"
   },
@@ -6039,5 +5982,31 @@
     "scores": null,
     "venue": null,
     "uid": "PFC-W-Seed-ed363af22ed1a050@favorite-sports"
+  },
+  {
+    "source": "Seed",
+    "team": "FRA-M",
+    "id": "9c66d385d9489b84",
+    "start": "2026-11-12T19:45:00+00:00",
+    "home": "Italy",
+    "away": "France",
+    "competition": "Season fixture (initial checked snapshot)",
+    "url": "",
+    "status": "scheduled",
+    "scores": null,
+    "uid": "FRA-M-Seed-9c66d385d9489b84@favorite-sports"
+  },
+  {
+    "source": "Seed",
+    "team": "FRA-M",
+    "id": "436f793b8f85552e",
+    "start": "2026-11-15T19:45:00+00:00",
+    "home": "France",
+    "away": "Turkey",
+    "competition": "Season fixture (initial checked snapshot)",
+    "url": "",
+    "status": "scheduled",
+    "scores": null,
+    "uid": "FRA-M-Seed-436f793b8f85552e@favorite-sports"
   }
 ]
