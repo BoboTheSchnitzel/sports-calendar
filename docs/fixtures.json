@@ -179,7 +179,10 @@
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020199",
     "status": "scheduled",
-    "scores": null,
+    "scores": {
+      "home": 5,
+      "away": 2
+    },
     "venue": "Capital One Arena",
     "uid": "FLYERS-NHL-2026020199@favorite-sports"
   },
@@ -4074,16 +4077,20 @@
     "uid": "LFC-ESPN-401878765@favorite-sports"
   },
   {
-    "source": "Seed",
+    "source": "ESPN",
     "team": "LFC",
-    "id": "d7c9660f1e5e8767",
+    "id": "401921842",
     "start": "2026-10-28T20:00:00+00:00",
-    "home": "Liverpool FC",
+    "home": "Liverpool",
     "away": "Chelsea",
-    "competition": "Season fixture (initial checked snapshot)",
-    "url": "",
-    "status": "scheduled",
-    "scores": null,
+    "competition": "eng.league_cup",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401921842/chelsea-liverpool",
+    "status": "STATUS_FINAL_PEN",
+    "scores": {
+      "home": 1,
+      "away": 1
+    },
+    "venue": "Anfield",
     "uid": "LFC-Seed-d7c9660f1e5e8767@favorite-sports"
   },
   {
@@ -4618,8 +4625,11 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909884/76ers-pacers",
-    "status": "STATUS_SCHEDULED",
-    "scores": null,
+    "status": "STATUS_FINAL",
+    "scores": {
+      "home": 109,
+      "away": 114
+    },
     "venue": "Gainbridge Fieldhouse",
     "uid": "SIXERS-ESPN-401909884@favorite-sports"
   },
