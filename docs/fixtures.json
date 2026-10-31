@@ -4625,8 +4625,11 @@
     "away": "New York Knicks",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909280/knicks-76ers",
-    "status": "STATUS_SCHEDULED",
-    "scores": null,
+    "status": "STATUS_FINAL",
+    "scores": {
+      "home": 98,
+      "away": 93
+    },
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401909280@favorite-sports"
   },
