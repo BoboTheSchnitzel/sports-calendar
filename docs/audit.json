@@ -1,21 +1,21 @@
 {
-  "generated": "2026-10-31T10:59:09.982852+00:00",
+  "generated": "2026-11-01T11:54:34.750479+00:00",
   "count": {
-    "PFC-M": 29,
+    "PFC-M": 28,
     "PFC-W": 19,
     "LFC": 41,
-    "UNION": 7,
+    "UNION": 6,
     "FRA-M": 2,
-    "FRA-W": 3,
+    "FRA-W": 2,
     "USA-M": 3,
-    "USA-W": 3,
+    "USA-W": 2,
     "EAGLES": 13,
     "SIXERS": 80,
-    "FLYERS": 90,
+    "FLYERS": 89,
     "PHILLIES": 136
   },
-  "total": 426,
-  "paris_venue_known": 22,
+  "total": 421,
+  "paris_venue_known": 21,
   "matches_with_verified_broadcast": 0,
   "conflicts": [
     {
@@ -46,6 +46,40 @@
         "status": "STATUS_SCHEDULED",
         "scores": null,
         "venue": "Canada Life Centre"
+      },
+      "issue": "Kickoff difference >15 min; official schedule used"
+    },
+    {
+      "team": "UNION",
+      "official": {
+        "source": "Official feed",
+        "team": "UNION",
+        "id": "10E1AA13-4269-4262-BAE1-83E068CEA169",
+        "start": "2026-10-31T22:00:00+00:00",
+        "home": "FC Cincinnati",
+        "away": "Philadelphia Union",
+        "competition": "Official club calendar",
+        "url": "https://images.mlssoccer.com/raw/upload/v1763747728/assets/PHI/Calendar/phiunion2026.ics",
+        "status": "scheduled",
+        "scores": null,
+        "venue": null,
+        "uid": "UNION-Seed-fbf02e6f250e299f@favorite-sports"
+      },
+      "espn": {
+        "source": "ESPN",
+        "team": "UNION",
+        "id": "761919",
+        "start": "2026-10-31T18:00:00+00:00",
+        "home": "FC Cincinnati",
+        "away": "Philadelphia Union",
+        "competition": "usa.1",
+        "url": "https://www.espn.com/soccer/match/_/gameId/761919/philadelphia-union-fc-cincinnati",
+        "status": "STATUS_FULL_TIME",
+        "scores": {
+          "home": 1,
+          "away": 0
+        },
+        "venue": "TQL Stadium"
       },
       "issue": "Kickoff difference >15 min; official schedule used"
     }
