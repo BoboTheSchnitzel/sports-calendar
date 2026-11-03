@@ -4513,8 +4513,11 @@
     "away": "Chicago Bulls",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909912/bulls-76ers",
-    "status": "STATUS_SCHEDULED",
-    "scores": null,
+    "status": "STATUS_FINAL",
+    "scores": {
+      "home": 126,
+      "away": 107
+    },
     "venue": "Xfinity Mobile Arena",
     "uid": "SIXERS-ESPN-401909912@favorite-sports"
   },
