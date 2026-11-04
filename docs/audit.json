@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T12:53:11.262881+00:00",
+  "generated": "2026-11-04T13:06:14.675795+00:00",
   "count": {
     "PFC-M": 28,
     "PFC-W": 19,
@@ -8,13 +8,13 @@
     "FRA-M": 2,
     "FRA-W": 2,
     "USA-M": 3,
-    "USA-W": 2,
+    "USA-W": 1,
     "EAGLES": 12,
     "SIXERS": 80,
-    "FLYERS": 88,
+    "FLYERS": 87,
     "PHILLIES": 136
   },
-  "total": 418,
+  "total": 416,
   "paris_venue_known": 21,
   "matches_with_verified_broadcast": 0,
   "conflicts": [
