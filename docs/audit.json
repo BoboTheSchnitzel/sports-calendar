@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-04T13:06:14.675795+00:00",
+  "generated": "2026-11-05T13:19:52.844184+00:00",
   "count": {
     "PFC-M": 28,
     "PFC-W": 19,
-    "LFC": 40,
-    "UNION": 6,
+    "LFC": 38,
+    "UNION": 5,
     "FRA-M": 2,
     "FRA-W": 2,
     "USA-M": 3,
@@ -14,7 +14,7 @@
     "FLYERS": 87,
     "PHILLIES": 136
   },
-  "total": 416,
+  "total": 413,
   "paris_venue_known": 21,
   "matches_with_verified_broadcast": 0,
   "conflicts": [
@@ -89,6 +89,8 @@
     "ESPN roster lookup unresolved: PFC-W in fra.fem. No match was guessed.",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1.f/teams?limit=1000: HTTP Error 404: Not Found",
     "ESPN roster lookup unresolved: PFC-W in fra.1.f. No match was guessed.",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/teams?limit=1000: Remote end closed connection without response",
+    "ESPN roster lookup unresolved: LFC in eng.1. No match was guessed.",
     "ESPN roster lookup unresolved: LFC in eng.fa. No match was guessed.",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world.w/teams?limit=1000: HTTP Error 404: Not Found",
     "ESPN roster lookup unresolved: FRA-W in fifa.world.w. No match was guessed.",
