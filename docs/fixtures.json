@@ -3221,7 +3221,8 @@
       "home": 1,
       "away": 2
     },
-    "venue": "Gtech Community Stadium"
+    "venue": "Gtech Community Stadium",
+    "uid": "LFC-ESPN-401879262@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -3254,7 +3255,8 @@
       "home": 2,
       "away": 0
     },
-    "venue": "Anfield"
+    "venue": "Anfield",
+    "uid": "LFC-ESPN-401878765@favorite-sports"
   },
   {
     "source": "ESPN",
@@ -4476,8 +4478,11 @@
     "away": "Philadelphia 76ers",
     "competition": "nba",
     "url": "https://www.espn.com/nba/game/_/gameId/401909289/76ers-cavaliers",
-    "status": "STATUS_SCHEDULED",
-    "scores": null,
+    "status": "STATUS_FINAL",
+    "scores": {
+      "home": 119,
+      "away": 95
+    },
     "venue": "Rocket Arena",
     "uid": "SIXERS-ESPN-401909289@favorite-sports"
   },
