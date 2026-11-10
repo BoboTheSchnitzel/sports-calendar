@@ -2,23 +2,6 @@
   {
     "source": "NHL",
     "team": "FLYERS",
-    "id": "2026020138",
-    "start": "2026-10-19T23:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Colorado Avalanche",
-    "competition": "NHL",
-    "url": "https://www.nhl.com/gamecenter/2026020138",
-    "status": "scheduled",
-    "scores": {
-      "home": 3,
-      "away": 2
-    },
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-NHL-2026020138@favorite-sports"
-  },
-  {
-    "source": "NHL",
-    "team": "FLYERS",
     "id": "2026020152",
     "start": "2026-10-21T23:30:00+00:00",
     "home": "Buffalo Sabres",
@@ -162,7 +145,10 @@
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020284",
     "status": "scheduled",
-    "scores": null,
+    "scores": {
+      "home": 1,
+      "away": 3
+    },
     "venue": "Rogers Arena",
     "uid": "FLYERS-NHL-2026020284@favorite-sports"
   },
@@ -5293,7 +5279,7 @@
     "source": "ESPN",
     "team": "EAGLES",
     "id": "401873076",
-    "start": "2026-11-22T21:25:00+00:00",
+    "start": "2026-11-22T18:00:00+00:00",
     "home": "Philadelphia Eagles",
     "away": "Pittsburgh Steelers",
     "competition": "nfl",
