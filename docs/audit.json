@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T14:40:59.396333+00:00",
+  "generated": "2026-11-18T14:18:31.664993+00:00",
   "count": {
     "PFC-M": 26,
     "PFC-W": 19,
@@ -11,10 +11,10 @@
     "USA-W": 1,
     "EAGLES": 10,
     "SIXERS": 76,
-    "FLYERS": 82,
+    "FLYERS": 81,
     "PHILLIES": 136
   },
-  "total": 398,
+  "total": 397,
   "paris_venue_known": 20,
   "matches_with_verified_broadcast": 0,
   "conflicts": [
@@ -697,7 +697,7 @@
         "source": "MLB",
         "team": "PHILLIES",
         "id": "852779",
-        "start": "2027-06-27T16:35:00+00:00",
+        "start": "2027-06-27T17:35:00+00:00",
         "home": "Pittsburgh Pirates",
         "away": "Philadelphia Phillies",
         "competition": "MLB",

@@ -2,23 +2,6 @@
   {
     "source": "NHL",
     "team": "FLYERS",
-    "id": "2026020188",
-    "start": "2026-10-27T23:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Columbus Blue Jackets",
-    "competition": "NHL",
-    "url": "https://www.nhl.com/gamecenter/2026020188",
-    "status": "scheduled",
-    "scores": {
-      "home": 3,
-      "away": 4
-    },
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-NHL-2026020188@favorite-sports"
-  },
-  {
-    "source": "NHL",
-    "team": "FLYERS",
     "id": "2026020199",
     "start": "2026-10-28T23:30:00+00:00",
     "home": "Washington Capitals",
@@ -179,7 +162,10 @@
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020337",
     "status": "scheduled",
-    "scores": null,
+    "scores": {
+      "home": 4,
+      "away": 3
+    },
     "venue": "Xfinity Mobile Arena",
     "uid": "FLYERS-NHL-2026020337@favorite-sports"
   },
@@ -2402,7 +2388,7 @@
     "source": "MLB",
     "team": "PHILLIES",
     "id": "852779",
-    "start": "2027-06-27T16:35:00+00:00",
+    "start": "2027-06-27T17:35:00+00:00",
     "home": "Pittsburgh Pirates",
     "away": "Philadelphia Phillies",
     "competition": "MLB",
@@ -5289,16 +5275,20 @@
     "uid": "USA-M-Seed-f070fa6900f4c1b6@favorite-sports"
   },
   {
-    "source": "Seed",
+    "source": "ESPN",
     "team": "USA-M",
-    "id": "f0348546292c7a27",
+    "id": "401929766",
     "start": "2026-11-18T00:00:00+00:00",
     "home": "United States",
     "away": "Haiti",
-    "competition": "Season fixture (initial checked snapshot)",
-    "url": "",
-    "status": "scheduled",
-    "scores": null,
+    "competition": "concacaf.nations.league",
+    "url": "https://www.espn.com/soccer/match/_/gameId/401929766/haiti-united-states",
+    "status": "STATUS_FULL_TIME",
+    "scores": {
+      "home": 2,
+      "away": 0
+    },
+    "venue": "TQL Stadium",
     "uid": "USA-M-Seed-f0348546292c7a27@favorite-sports"
   },
   {
