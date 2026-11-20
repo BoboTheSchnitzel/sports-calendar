@@ -190,7 +190,10 @@
     "competition": "NHL",
     "url": "https://www.nhl.com/gamecenter/2026020348",
     "status": "scheduled",
-    "scores": null,
+    "scores": {
+      "home": 5,
+      "away": 6
+    },
     "venue": "Canadian Tire Centre",
     "uid": "FLYERS-NHL-2026020348@favorite-sports"
   },
@@ -1643,7 +1646,7 @@
     "source": "MLB",
     "team": "PHILLIES",
     "id": "853311",
-    "start": "2027-03-29T07:33:00+00:00",
+    "start": "2027-03-29T22:40:00+00:00",
     "home": "Miami Marlins",
     "away": "Philadelphia Phillies",
     "competition": "MLB",
@@ -1657,7 +1660,7 @@
     "source": "MLB",
     "team": "PHILLIES",
     "id": "853307",
-    "start": "2027-03-31T07:33:00+00:00",
+    "start": "2027-03-31T16:40:00+00:00",
     "home": "Miami Marlins",
     "away": "Philadelphia Phillies",
     "competition": "MLB",
@@ -2595,7 +2598,7 @@
     "source": "MLB",
     "team": "PHILLIES",
     "id": "853251",
-    "start": "2027-07-30T07:33:00+00:00",
+    "start": "2027-07-30T23:10:00+00:00",
     "home": "Miami Marlins",
     "away": "Philadelphia Phillies",
     "competition": "MLB",
@@ -2609,7 +2612,7 @@
     "source": "MLB",
     "team": "PHILLIES",
     "id": "853256",
-    "start": "2027-08-01T07:33:00+00:00",
+    "start": "2027-08-01T17:40:00+00:00",
     "home": "Miami Marlins",
     "away": "Philadelphia Phillies",
     "competition": "MLB",
@@ -5241,20 +5244,6 @@
     "status": "scheduled",
     "scores": null,
     "uid": "USA-M-Seed-effa6d7866bf0a11@favorite-sports"
-  },
-  {
-    "source": "Seed",
-    "team": "PFC-W",
-    "id": "4835d78468374c0e",
-    "start": "2026-10-29T17:45:00+00:00",
-    "home": "Paris FC Women",
-    "away": "BK Häcken",
-    "competition": "Season fixture (initial checked snapshot)",
-    "url": "",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Stade Sébastien-Charléty, Paris, France",
-    "uid": "PFC-W-Seed-4835d78468374c0e@favorite-sports"
   },
   {
     "source": "Seed",

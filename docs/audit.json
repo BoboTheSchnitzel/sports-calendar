@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-19T14:31:42.514644+00:00",
+  "generated": "2026-11-20T14:10:07.321041+00:00",
   "count": {
     "PFC-M": 26,
-    "PFC-W": 19,
+    "PFC-W": 18,
     "LFC": 36,
     "UNION": 2,
     "FRA-M": 3,
@@ -14,8 +14,8 @@
     "FLYERS": 80,
     "PHILLIES": 136
   },
-  "total": 393,
-  "paris_venue_known": 20,
+  "total": 392,
+  "paris_venue_known": 19,
   "matches_with_verified_broadcast": 0,
   "conflicts": [
     {
@@ -24,7 +24,7 @@
         "source": "MLB",
         "team": "PHILLIES",
         "id": "853311",
-        "start": "2027-03-29T07:33:00+00:00",
+        "start": "2027-03-29T22:40:00+00:00",
         "home": "Miami Marlins",
         "away": "Philadelphia Phillies",
         "competition": "MLB",
@@ -33,36 +33,6 @@
         "scores": null,
         "venue": "loanDepot park",
         "uid": "PHILLIES-MLB-853311@favorite-sports"
-      },
-      "espn": {
-        "source": "ESPN",
-        "team": "PHILLIES",
-        "id": "401893822",
-        "start": "2027-03-29T04:00:00+00:00",
-        "home": "Miami Marlins",
-        "away": "Philadelphia Phillies",
-        "competition": "mlb",
-        "url": "https://www.espn.com/mlb/game/_/gameId/401893822/phillies-marlins",
-        "status": "STATUS_SCHEDULED",
-        "scores": null,
-        "venue": "loanDepot park"
-      },
-      "issue": "Kickoff difference >15 min; official schedule used"
-    },
-    {
-      "team": "PHILLIES",
-      "official": {
-        "source": "MLB",
-        "team": "PHILLIES",
-        "id": "853306",
-        "start": "2027-03-30T07:33:00+00:00",
-        "home": "Miami Marlins",
-        "away": "Philadelphia Phillies",
-        "competition": "MLB",
-        "url": "https://www.mlb.com/gameday/853306",
-        "status": "scheduled",
-        "scores": null,
-        "venue": "loanDepot park"
       },
       "espn": {
         "source": "ESPN",
@@ -84,8 +54,38 @@
       "official": {
         "source": "MLB",
         "team": "PHILLIES",
+        "id": "853306",
+        "start": "2027-03-30T22:40:00+00:00",
+        "home": "Miami Marlins",
+        "away": "Philadelphia Phillies",
+        "competition": "MLB",
+        "url": "https://www.mlb.com/gameday/853306",
+        "status": "scheduled",
+        "scores": null,
+        "venue": "loanDepot park"
+      },
+      "espn": {
+        "source": "ESPN",
+        "team": "PHILLIES",
+        "id": "401893851",
+        "start": "2027-03-31T04:00:00+00:00",
+        "home": "Miami Marlins",
+        "away": "Philadelphia Phillies",
+        "competition": "mlb",
+        "url": "https://www.espn.com/mlb/game/_/gameId/401893851/phillies-marlins",
+        "status": "STATUS_SCHEDULED",
+        "scores": null,
+        "venue": "loanDepot park"
+      },
+      "issue": "Kickoff difference >15 min; official schedule used"
+    },
+    {
+      "team": "PHILLIES",
+      "official": {
+        "source": "MLB",
+        "team": "PHILLIES",
         "id": "853307",
-        "start": "2027-03-31T07:33:00+00:00",
+        "start": "2027-03-31T16:40:00+00:00",
         "home": "Miami Marlins",
         "away": "Philadelphia Phillies",
         "competition": "MLB",
@@ -820,7 +820,7 @@
         "source": "MLB",
         "team": "PHILLIES",
         "id": "853251",
-        "start": "2027-07-30T07:33:00+00:00",
+        "start": "2027-07-30T23:10:00+00:00",
         "home": "Miami Marlins",
         "away": "Philadelphia Phillies",
         "competition": "MLB",
@@ -829,36 +829,6 @@
         "scores": null,
         "venue": "loanDepot park",
         "uid": "PHILLIES-MLB-853251@favorite-sports"
-      },
-      "espn": {
-        "source": "ESPN",
-        "team": "PHILLIES",
-        "id": "401895420",
-        "start": "2027-07-30T04:00:00+00:00",
-        "home": "Miami Marlins",
-        "away": "Philadelphia Phillies",
-        "competition": "mlb",
-        "url": "https://www.espn.com/mlb/game/_/gameId/401895420/phillies-marlins",
-        "status": "STATUS_SCHEDULED",
-        "scores": null,
-        "venue": "loanDepot park"
-      },
-      "issue": "Kickoff difference >15 min; official schedule used"
-    },
-    {
-      "team": "PHILLIES",
-      "official": {
-        "source": "MLB",
-        "team": "PHILLIES",
-        "id": "853260",
-        "start": "2027-07-31T07:33:00+00:00",
-        "home": "Miami Marlins",
-        "away": "Philadelphia Phillies",
-        "competition": "MLB",
-        "url": "https://www.mlb.com/gameday/853260",
-        "status": "scheduled",
-        "scores": null,
-        "venue": "loanDepot park"
       },
       "espn": {
         "source": "ESPN",
@@ -880,8 +850,38 @@
       "official": {
         "source": "MLB",
         "team": "PHILLIES",
+        "id": "853260",
+        "start": "2027-07-31T20:10:00+00:00",
+        "home": "Miami Marlins",
+        "away": "Philadelphia Phillies",
+        "competition": "MLB",
+        "url": "https://www.mlb.com/gameday/853260",
+        "status": "scheduled",
+        "scores": null,
+        "venue": "loanDepot park"
+      },
+      "espn": {
+        "source": "ESPN",
+        "team": "PHILLIES",
+        "id": "401895450",
+        "start": "2027-08-01T04:00:00+00:00",
+        "home": "Miami Marlins",
+        "away": "Philadelphia Phillies",
+        "competition": "mlb",
+        "url": "https://www.espn.com/mlb/game/_/gameId/401895450/phillies-marlins",
+        "status": "STATUS_SCHEDULED",
+        "scores": null,
+        "venue": "loanDepot park"
+      },
+      "issue": "Kickoff difference >15 min; official schedule used"
+    },
+    {
+      "team": "PHILLIES",
+      "official": {
+        "source": "MLB",
+        "team": "PHILLIES",
         "id": "853256",
-        "start": "2027-08-01T07:33:00+00:00",
+        "start": "2027-08-01T17:40:00+00:00",
         "home": "Miami Marlins",
         "away": "Philadelphia Phillies",
         "competition": "MLB",
