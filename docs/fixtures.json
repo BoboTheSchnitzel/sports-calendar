@@ -3087,23 +3087,6 @@
   {
     "source": "ESPN",
     "team": "SIXERS",
-    "id": "401909280",
-    "start": "2026-10-30T23:30:00+00:00",
-    "home": "Philadelphia 76ers",
-    "away": "New York Knicks",
-    "competition": "nba",
-    "url": "https://www.espn.com/nba/game/_/gameId/401909280/knicks-76ers",
-    "status": "STATUS_FINAL",
-    "scores": {
-      "home": 98,
-      "away": 93
-    },
-    "venue": "Xfinity Mobile Arena",
-    "uid": "SIXERS-ESPN-401909280@favorite-sports"
-  },
-  {
-    "source": "ESPN",
-    "team": "SIXERS",
     "id": "401909897",
     "start": "2026-10-31T22:00:00+00:00",
     "home": "Charlotte Hornets",
