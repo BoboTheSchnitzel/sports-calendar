@@ -2,23 +2,6 @@
   {
     "source": "NHL",
     "team": "FLYERS",
-    "id": "2026020241",
-    "start": "2026-11-04T00:00:00+00:00",
-    "home": "Philadelphia Flyers",
-    "away": "Minnesota Wild",
-    "competition": "NHL",
-    "url": "https://www.nhl.com/gamecenter/2026020241",
-    "status": "scheduled",
-    "scores": {
-      "home": 2,
-      "away": 4
-    },
-    "venue": "Xfinity Mobile Arena",
-    "uid": "FLYERS-NHL-2026020241@favorite-sports"
-  },
-  {
-    "source": "NHL",
-    "team": "FLYERS",
     "id": "2026020256",
     "start": "2026-11-06T00:00:00+00:00",
     "home": "New York",
