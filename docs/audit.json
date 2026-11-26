@@ -1,20 +1,20 @@
 {
-  "generated": "2026-11-25T15:47:54.731154+00:00",
+  "generated": "2026-11-26T15:28:20.727746+00:00",
   "count": {
     "PFC-M": 26,
     "PFC-W": 17,
-    "LFC": 35,
+    "LFC": 33,
     "UNION": 2,
     "FRA-M": 3,
     "FRA-W": 2,
     "USA-M": 3,
     "USA-W": 1,
     "EAGLES": 9,
-    "SIXERS": 72,
+    "SIXERS": 71,
     "FLYERS": 78,
     "PHILLIES": 136
   },
-  "total": 384,
+  "total": 381,
   "paris_venue_known": 18,
   "matches_with_verified_broadcast": 0,
   "conflicts": [
@@ -544,7 +544,7 @@
         "source": "MLB",
         "team": "PHILLIES",
         "id": "852228",
-        "start": "2027-06-11T07:33:00+00:00",
+        "start": "2027-06-11T23:07:00+00:00",
         "home": "Toronto Blue Jays",
         "away": "Philadelphia Phillies",
         "competition": "MLB",
@@ -553,36 +553,6 @@
         "scores": null,
         "venue": "Rogers Centre",
         "uid": "PHILLIES-MLB-852228@favorite-sports"
-      },
-      "espn": {
-        "source": "ESPN",
-        "team": "PHILLIES",
-        "id": "401894804",
-        "start": "2027-06-11T04:00:00+00:00",
-        "home": "Toronto Blue Jays",
-        "away": "Philadelphia Phillies",
-        "competition": "mlb",
-        "url": "https://www.espn.com/mlb/game/_/gameId/401894804/phillies-blue-jays",
-        "status": "STATUS_SCHEDULED",
-        "scores": null,
-        "venue": "Rogers Centre"
-      },
-      "issue": "Kickoff difference >15 min; official schedule used"
-    },
-    {
-      "team": "PHILLIES",
-      "official": {
-        "source": "MLB",
-        "team": "PHILLIES",
-        "id": "852229",
-        "start": "2027-06-12T07:33:00+00:00",
-        "home": "Toronto Blue Jays",
-        "away": "Philadelphia Phillies",
-        "competition": "MLB",
-        "url": "https://www.mlb.com/gameday/852229",
-        "status": "scheduled",
-        "scores": null,
-        "venue": "Rogers Centre"
       },
       "espn": {
         "source": "ESPN",
@@ -604,8 +574,38 @@
       "official": {
         "source": "MLB",
         "team": "PHILLIES",
+        "id": "852229",
+        "start": "2027-06-12T19:07:00+00:00",
+        "home": "Toronto Blue Jays",
+        "away": "Philadelphia Phillies",
+        "competition": "MLB",
+        "url": "https://www.mlb.com/gameday/852229",
+        "status": "scheduled",
+        "scores": null,
+        "venue": "Rogers Centre"
+      },
+      "espn": {
+        "source": "ESPN",
+        "team": "PHILLIES",
+        "id": "401894834",
+        "start": "2027-06-13T04:00:00+00:00",
+        "home": "Toronto Blue Jays",
+        "away": "Philadelphia Phillies",
+        "competition": "mlb",
+        "url": "https://www.espn.com/mlb/game/_/gameId/401894834/phillies-blue-jays",
+        "status": "STATUS_SCHEDULED",
+        "scores": null,
+        "venue": "Rogers Centre"
+      },
+      "issue": "Kickoff difference >15 min; official schedule used"
+    },
+    {
+      "team": "PHILLIES",
+      "official": {
+        "source": "MLB",
+        "team": "PHILLIES",
         "id": "852220",
-        "start": "2027-06-13T07:33:00+00:00",
+        "start": "2027-06-13T17:37:00+00:00",
         "home": "Toronto Blue Jays",
         "away": "Philadelphia Phillies",
         "competition": "MLB",
