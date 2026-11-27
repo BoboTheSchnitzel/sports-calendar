@@ -5083,20 +5083,6 @@
   {
     "source": "Seed",
     "team": "PFC-W",
-    "id": "43b12e2a389d2e9c",
-    "start": "2026-11-06T18:00:00+00:00",
-    "home": "Paris FC Women",
-    "away": "Montpellier",
-    "competition": "Season fixture (initial checked snapshot)",
-    "url": "",
-    "status": "scheduled",
-    "scores": null,
-    "venue": "Stade Sébastien-Charléty, Paris, France",
-    "uid": "PFC-W-Seed-43b12e2a389d2e9c@favorite-sports"
-  },
-  {
-    "source": "Seed",
-    "team": "PFC-W",
     "id": "41f55768c7625678",
     "start": "2026-11-10T17:45:00+00:00",
     "home": "Real Madrid",
